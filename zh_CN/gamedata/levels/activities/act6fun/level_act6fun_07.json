@@ -10,6 +10,7 @@
     "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
+    "displayRestTime": false,
     "maxPlayTime": -1.0,
     "functionDisableMask": "NONE",
     "configBlackBoard": [
@@ -5101,6 +5102,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -5130,6 +5135,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -5326,6 +5335,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -5355,6 +5368,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -6235,6 +6252,7 @@
         "alias": "trap_020_roadblock#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_020_roadblock",
           "level": 1,
@@ -6246,7 +6264,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -6258,6 +6277,7 @@
         "alias": "trap_020_roadblock#3",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_020_roadblock",
           "level": 1,
@@ -6269,7 +6289,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "characterCards": [
@@ -6278,6 +6299,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_250_phatom",
           "level": 30,
@@ -6289,13 +6311,15 @@
         "mainSkillLvl": 10,
         "skinId": "char_250_phatom@sale#4",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4026_vulpis",
           "level": 30,
@@ -6307,13 +6331,15 @@
         "mainSkillLvl": 10,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_2012_typhon",
           "level": 30,
@@ -6325,13 +6351,15 @@
         "mainSkillLvl": 10,
         "skinId": "char_2012_typhon@wild#9",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4165_ctrail",
           "level": 30,
@@ -6343,13 +6371,15 @@
         "mainSkillLvl": 10,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_237_gravel",
           "level": 30,
@@ -6361,13 +6391,15 @@
         "mainSkillLvl": 10,
         "skinId": "char_237_gravel@winter#2",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_197_poca",
           "level": 50,
@@ -6379,13 +6411,15 @@
         "mainSkillLvl": 10,
         "skinId": "char_197_poca@epoque#12",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4082_qiubai",
           "level": 30,
@@ -6397,7 +6431,8 @@
         "mainSkillLvl": 10,
         "skinId": "char_4082_qiubai@epoque#31",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "tokenCards": []

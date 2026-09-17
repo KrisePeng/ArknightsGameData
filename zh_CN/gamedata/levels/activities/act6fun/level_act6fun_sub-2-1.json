@@ -10,6 +10,7 @@
     "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
+    "displayRestTime": false,
     "maxPlayTime": -1.0,
     "functionDisableMask": "NONE",
     "configBlackBoard": [
@@ -575,9 +576,9 @@
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": "LOWLAND",
-        "buildableType": "MELEE",
-        "passableMask": "ALL",
+        "heightType": "HIGHLAND",
+        "buildableType": "NONE",
+        "passableMask": "FLY_ONLY",
         "playerSideMask": "ALL",
         "blackboard": null,
         "effects": null
@@ -2663,6 +2664,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -2692,6 +2697,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -3170,6 +3179,7 @@
         "alias": "trap_013_blower#1",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_013_blower",
           "level": 1,
@@ -3181,7 +3191,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -3193,6 +3204,7 @@
         "alias": "trap_013_blower#2",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_013_blower",
           "level": 1,
@@ -3204,7 +3216,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -3216,6 +3229,7 @@
         "alias": "trap_013_blower#4",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_013_blower",
           "level": 1,
@@ -3227,7 +3241,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -3239,6 +3254,7 @@
         "alias": "trap_013_blower#5",
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_013_blower",
           "level": 1,
@@ -3250,7 +3266,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "characterCards": [
@@ -3259,6 +3276,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_311_mudrok",
           "level": 90,
@@ -3270,13 +3288,15 @@
         "mainSkillLvl": 10,
         "skinId": "char_311_mudrok@summer#6",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_350_surtr",
           "level": 90,
@@ -3288,13 +3308,15 @@
         "mainSkillLvl": 10,
         "skinId": "char_350_surtr@summer#9",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4064_mlynar",
           "level": 1,
@@ -3306,7 +3328,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
@@ -3318,6 +3341,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4145_ulpia",
           "level": 90,
@@ -3329,13 +3353,15 @@
         "mainSkillLvl": 10,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4036_forcer",
           "level": 1,
@@ -3347,7 +3373,8 @@
         "mainSkillLvl": 1,
         "skinId": "char_4036_forcer@epoque#20",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
@@ -3359,6 +3386,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4065_judge",
           "level": 90,
@@ -3370,7 +3398,8 @@
         "mainSkillLvl": 10,
         "skinId": "char_4065_judge@snow#6",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
@@ -3382,6 +3411,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_264_f12yin",
           "level": 90,
@@ -3393,13 +3423,15 @@
         "mainSkillLvl": 10,
         "skinId": "char_264_f12yin@epoque#15",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_379_sesa",
           "level": 80,
@@ -3411,7 +3443,8 @@
         "mainSkillLvl": 10,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
@@ -3423,6 +3456,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_1038_whitw2",
           "level": 90,
@@ -3434,7 +3468,8 @@
         "mainSkillLvl": 10,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "tokenCards": []

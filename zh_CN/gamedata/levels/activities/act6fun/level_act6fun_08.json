@@ -10,6 +10,7 @@
     "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
+    "displayRestTime": false,
     "maxPlayTime": -1.0,
     "functionDisableMask": "NONE",
     "configBlackBoard": [
@@ -3097,6 +3098,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -3126,6 +3131,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -3370,6 +3379,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -3399,6 +3412,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -4261,6 +4278,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4130_luton",
           "level": 60,
@@ -4272,7 +4290,8 @@
         "mainSkillLvl": 7,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4284,6 +4303,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4100_caper",
           "level": 30,
@@ -4295,7 +4315,8 @@
         "mainSkillLvl": 10,
         "skinId": "char_4100_caper@summer#18",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4307,6 +4328,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4042_lumen",
           "level": 30,
@@ -4318,7 +4340,8 @@
         "mainSkillLvl": 10,
         "skinId": "char_4042_lumen@ambienceSynesthesia#3",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4335,6 +4358,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_474_glady",
           "level": 60,
@@ -4346,7 +4370,8 @@
         "mainSkillLvl": 10,
         "skinId": "char_474_glady@epoque#33",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4358,6 +4383,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_1016_agoat2",
           "level": 30,
@@ -4369,7 +4395,8 @@
         "mainSkillLvl": 10,
         "skinId": "char_1016_agoat2@epoque#34",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4386,6 +4413,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_263_skadi",
           "level": 60,
@@ -4397,7 +4425,8 @@
         "mainSkillLvl": 10,
         "skinId": "char_263_skadi@summer#3",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4414,6 +4443,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_1023_ghost2",
           "level": 60,
@@ -4425,7 +4455,8 @@
         "mainSkillLvl": 10,
         "skinId": "char_1023_ghost2@boc#6",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4442,6 +4473,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_218_cuttle",
           "level": 60,
@@ -4453,7 +4485,8 @@
         "mainSkillLvl": 10,
         "skinId": "char_218_cuttle@epoque#12",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4470,6 +4503,7 @@
           }
         ],
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4145_ulpia",
           "level": 60,
@@ -4481,7 +4515,8 @@
         "mainSkillLvl": 10,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "tokenInsts": [],

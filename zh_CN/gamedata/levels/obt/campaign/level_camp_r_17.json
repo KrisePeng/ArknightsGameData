@@ -7,6 +7,7 @@
     "costIncreaseTime": 999999.0,
     "moveMultiplier": 0.5,
     "steeringEnabled": true,
+    "reachableCheckIgnoreStartTile": false,
     "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
@@ -13702,7 +13703,8 @@
             "value": 3.0,
             "valueStr": null
           }
-        ]
+        ],
+        "overrideTalents": null
       }
     ],
     "characterCards": [],

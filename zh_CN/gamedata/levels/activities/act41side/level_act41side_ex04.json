@@ -7,9 +7,11 @@
     "costIncreaseTime": 1.0,
     "moveMultiplier": 0.5,
     "steeringEnabled": true,
+    "reachableCheckIgnoreStartTile": false,
     "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
+    "displayRestTime": false,
     "maxPlayTime": -1.0,
     "functionDisableMask": "NONE",
     "configBlackBoard": null
@@ -1351,6 +1353,7 @@
       ]
     }
   ],
+  "optionalRunes": null,
   "globalBuffs": null,
   "routes": [
     {
@@ -8132,6 +8135,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -8157,6 +8164,22 @@
             "m_value": false
           },
           "fearedImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "teleportImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "groundBoundImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -8391,6 +8414,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": false
@@ -8417,6 +8444,22 @@
           },
           "fearedImmune": {
             "m_defined": true,
+            "m_value": false
+          },
+          "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "teleportImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "groundBoundImmune": {
+            "m_defined": false,
             "m_value": false
           }
         },
@@ -8664,6 +8707,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": false
@@ -8690,6 +8737,22 @@
           },
           "fearedImmune": {
             "m_defined": true,
+            "m_value": false
+          },
+          "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "teleportImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "groundBoundImmune": {
+            "m_defined": false,
             "m_value": false
           }
         },
@@ -8937,6 +9000,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": true,
             "m_value": false
@@ -8963,6 +9030,22 @@
           },
           "fearedImmune": {
             "m_defined": true,
+            "m_value": false
+          },
+          "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "teleportImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "groundBoundImmune": {
+            "m_defined": false,
             "m_value": false
           }
         },
@@ -11207,6 +11290,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#1",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11224,7 +11309,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_1"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11235,6 +11321,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#2",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11252,7 +11340,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_2"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11263,6 +11352,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#3",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11280,7 +11371,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_3"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11291,6 +11383,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#4",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11308,7 +11402,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_4"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11319,6 +11414,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#5",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11336,7 +11433,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_5"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11347,6 +11445,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#6",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11364,7 +11464,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_6"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11375,6 +11476,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#7",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11392,7 +11495,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_7"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11403,6 +11507,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#8",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11420,7 +11526,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_8"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11431,6 +11538,8 @@
         "hidden": false,
         "alias": "trap_219_fttreant#9",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11448,7 +11557,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_9"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11459,6 +11569,8 @@
         "hidden": false,
         "alias": "trap_219_fttreant#10",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11476,7 +11588,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_10"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11487,6 +11600,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#11",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11504,7 +11619,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_11"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11515,6 +11631,8 @@
         "hidden": false,
         "alias": "trap_219_fttreant#12",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11532,7 +11650,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_12"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11543,6 +11662,8 @@
         "hidden": false,
         "alias": "trap_219_fttreant#13",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11560,7 +11681,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_13"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11571,6 +11693,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#14",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11588,7 +11712,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_14"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11599,6 +11724,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#15",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11616,7 +11743,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_15"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11627,6 +11755,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#16",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -11644,7 +11774,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_16"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11655,6 +11786,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#1",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11666,7 +11799,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11677,6 +11811,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#2",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11688,7 +11824,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11699,6 +11836,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#3",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11710,7 +11849,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11721,6 +11861,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#4",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11732,7 +11874,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11743,6 +11886,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#5",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11754,7 +11899,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11765,6 +11911,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#6",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11776,7 +11924,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11787,6 +11936,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#7",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11798,7 +11949,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11809,6 +11961,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#8",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11820,7 +11974,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11831,6 +11986,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#9",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11842,7 +11999,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11853,6 +12011,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#10",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11864,7 +12024,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11875,6 +12036,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#11",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11886,7 +12049,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11897,6 +12061,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#12",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11908,7 +12074,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11919,6 +12086,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#13",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11930,7 +12099,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11941,6 +12111,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#14",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11952,7 +12124,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11963,6 +12136,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#15",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11974,7 +12149,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -11985,6 +12161,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#16",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -11996,7 +12174,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -12007,6 +12186,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#17",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -12024,7 +12205,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_17"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -12035,6 +12217,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#18",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -12052,7 +12236,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_18"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -12063,6 +12248,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#19",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -12080,7 +12267,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_19"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -12091,6 +12279,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#20",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -12108,7 +12298,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_20"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -12119,6 +12310,8 @@
         "hidden": true,
         "alias": "trap_219_fttreant#21",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -12136,7 +12329,8 @@
             "value": 0.0,
             "valueStr": "lsj_branch_21"
           }
-        ]
+        ],
+        "overrideTalents": null
       }
     ],
     "characterCards": [],

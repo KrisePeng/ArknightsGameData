@@ -3,9 +3,11 @@ local list =
 {
   
   "HotFixes/TestStubHotfixer",
-  "HotFixes/BackgroundMultiFormHotfixer",
-  "HotFixes/CGGalleryHotfixer",
-  "HotFixes/PCHotfixer"
+  "HotFixes/UICharacterTabGroupHotfixer",
+  "HotFixes/AVGStickerAutoClickHotfixer",
+  "HotFixes/AVGDialogAutoClickHotfixer",
+  "HotFixes/DynNameCardSettingHotfixer",
+  "HotFixes/SchedulerHotfixer",
 };
 
 return list;

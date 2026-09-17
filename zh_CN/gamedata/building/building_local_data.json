@@ -2402,6 +2402,2164 @@
         }
       ],
       "backwallObstacles": null
+    },
+    "furni_rabbitCinema_shelf_03": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furni_Azuredream_column_01": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furni_Azuredream_table_01": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furni_Azuredream_pillar_01": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furni_aphrissaRoom_computer_01": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furni_aphrissaRoom_computer_02": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furni_darkForest_seat_02": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 5,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 5,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 5,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 6,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 6,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 6,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furni_messengerCottage_standingLamp_01": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furni_messengerCottage_sofa_01": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furni_messengerCottage_sidetable_01": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furni_darkForest_trunk_02": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furni_darkForest_trunk_01": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 6
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 7
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 6
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 7
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 6
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 7
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furni_darkForest_trunk_03": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 6
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 6
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 6
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 5
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furni_darkForest_seat_01": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furniM_velvet_leftChair_01": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furniM_velvet_rightChair_01": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furniM_velvet_musicPlayer_01": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 4
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furniM_velvet_roundTable_01": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 3
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 4,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furniM_velvet_leftArchedDoor_01": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 3,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
+    },
+    "furni_dessertShop_arch_01": {
+      "floorObstacles": [
+        {
+          "offset": {
+            "row": 0,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 7
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 8
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 0,
+            "col": 9
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 7
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 8
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 1,
+            "col": 9
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 0
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 1
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 2
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 7
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 8
+          },
+          "edgeWalkableMask": 0
+        },
+        {
+          "offset": {
+            "row": 2,
+            "col": 9
+          },
+          "edgeWalkableMask": 0
+        }
+      ],
+      "backwallObstacles": null
     }
   },
   "roomObstacleData": {
@@ -53243,6 +55401,4807 @@
         ]
       },
       "isOverWrite": true
+    },
+    "furni_pizzeria_kiln_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_kiln_01",
+          "furni_pizzeria_kiln_02",
+          "furni_pizzeria_kiln_03",
+          "furni_pizzeria_kiln_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_pizzeria_kiln_01",
+          "furni_pizzeria_kiln_02",
+          "furni_pizzeria_kiln_03",
+          "furni_pizzeria_kiln_04"
+        ],
+        "LOW": [
+          "furni_pizzeria_kiln_01",
+          "furni_pizzeria_kiln_02",
+          "furni_pizzeria_kiln_03",
+          "furni_pizzeria_kiln_04"
+        ],
+        "LOWEST": [
+          "furni_pizzeria_kiln_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_worktop_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_worktop_01",
+          "furni_pizzeria_worktop_02",
+          "furni_pizzeria_worktop_03",
+          "furni_pizzeria_worktop_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_pizzeria_worktop_01",
+          "furni_pizzeria_worktop_02",
+          "furni_pizzeria_worktop_03",
+          "furni_pizzeria_worktop_04"
+        ],
+        "LOW": [
+          "furni_pizzeria_worktop_01",
+          "furni_pizzeria_worktop_02",
+          "furni_pizzeria_worktop_03",
+          "furni_pizzeria_worktop_04"
+        ],
+        "LOWEST": [
+          "furni_pizzeria_worktop_01",
+          "furni_pizzeria_worktop_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_wallcabinet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_wallcabinet_01",
+          "furni_pizzeria_wallcabinet_02"
+        ],
+        "HIGH": [
+          "furni_pizzeria_wallcabinet_01",
+          "furni_pizzeria_wallcabinet_02"
+        ],
+        "LOW": [
+          "furni_pizzeria_wallcabinet_01",
+          "furni_pizzeria_wallcabinet_02"
+        ],
+        "LOWEST": [
+          "furni_pizzeria_wallcabinet_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_plant_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_plant_01",
+          "furni_pizzeria_plant_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_pizzeria_plant_01",
+          "furni_pizzeria_plant_02"
+        ],
+        "LOW": [
+          "furni_pizzeria_plant_01",
+          "furni_pizzeria_plant_02"
+        ],
+        "LOWEST": [
+          "furni_pizzeria_plant_01",
+          "furni_pizzeria_plant_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_chandelier_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_chandelier_01",
+          "furni_pizzeria_chandelier_02",
+          "furni_pizzeria_chandelier_03",
+          "furni_pizzeria_chandelier_04"
+        ],
+        "HIGH": [
+          "furni_pizzeria_chandelier_01",
+          "furni_pizzeria_chandelier_02",
+          "furni_pizzeria_chandelier_03",
+          "furni_pizzeria_chandelier_04"
+        ],
+        "LOW": [
+          "furni_pizzeria_chandelier_01",
+          "furni_pizzeria_chandelier_02",
+          "furni_pizzeria_chandelier_03",
+          "furni_pizzeria_chandelier_04"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_sofa_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_sofa_01",
+          "furni_pizzeria_sofa_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_pizzeria_sofa_01",
+          "furni_pizzeria_sofa_02"
+        ],
+        "LOW": [
+          "furni_pizzeria_sofa_01",
+          "furni_pizzeria_sofa_02"
+        ],
+        "LOWEST": [
+          "furni_pizzeria_sofa_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_table_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_table_01",
+          "furni_pizzeria_table_02",
+          "furni_pizzeria_table_03",
+          "furni_pizzeria_table_04",
+          "furni_pizzeria_table_05",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_pizzeria_table_01",
+          "furni_pizzeria_table_02",
+          "furni_pizzeria_table_03",
+          "furni_pizzeria_table_04",
+          "furni_pizzeria_table_05"
+        ],
+        "LOW": [
+          "furni_pizzeria_table_01",
+          "furni_pizzeria_table_02",
+          "furni_pizzeria_table_03",
+          "furni_pizzeria_table_05"
+        ],
+        "LOWEST": [
+          "furni_pizzeria_table_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_carpet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_carpet_01"
+        ],
+        "HIGH": [
+          "furni_pizzeria_carpet_01"
+        ],
+        "LOW": [
+          "furni_pizzeria_carpet_01"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_painting_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_painting_01",
+          "furni_pizzeria_painting_02"
+        ],
+        "HIGH": [
+          "furni_pizzeria_painting_01",
+          "furni_pizzeria_painting_02"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_winecabinet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_winecabinet_01",
+          "furni_pizzeria_winecabinet_02",
+          "furni_pizzeria_winecabinet_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_pizzeria_winecabinet_01",
+          "furni_pizzeria_winecabinet_02",
+          "furni_pizzeria_winecabinet_03"
+        ],
+        "LOW": [
+          "furni_pizzeria_winecabinet_01",
+          "furni_pizzeria_winecabinet_02",
+          "furni_pizzeria_winecabinet_03"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_stool_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_stool_01",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_pizzeria_stool_01"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_icebucket_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_icebucket_01",
+          "furni_pizzeria_icebucket_02",
+          "furni_pizzeria_icebucket_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_pizzeria_icebucket_01",
+          "furni_pizzeria_icebucket_02",
+          "furni_pizzeria_icebucket_03"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_longchandelier_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_longchandelier_01",
+          "furni_pizzeria_longchandelier_02"
+        ],
+        "HIGH": [
+          "furni_pizzeria_longchandelier_01",
+          "furni_pizzeria_longchandelier_02"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_sideboard_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_sideboard_01",
+          "furni_pizzeria_sideboard_02",
+          "furni_pizzeria_sideboard_03",
+          "furni_pizzeria_sideboard_04",
+          "furni_pizzeria_sideboard_05",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_pizzeria_sideboard_01",
+          "furni_pizzeria_sideboard_02",
+          "furni_pizzeria_sideboard_03",
+          "furni_pizzeria_sideboard_04",
+          "furni_pizzeria_sideboard_05"
+        ],
+        "LOW": [
+          "furni_pizzeria_sideboard_01",
+          "furni_pizzeria_sideboard_02",
+          "furni_pizzeria_sideboard_03",
+          "furni_pizzeria_sideboard_04",
+          "furni_pizzeria_sideboard_05"
+        ],
+        "LOWEST": [
+          "furni_pizzeria_sideboard_01",
+          "furni_pizzeria_sideboard_04"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_lemontree_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_lemontree_01",
+          "furni_pizzeria_lemontree_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_pizzeria_lemontree_01",
+          "furni_pizzeria_lemontree_02"
+        ],
+        "LOW": [
+          "furni_pizzeria_lemontree_01",
+          "furni_pizzeria_lemontree_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_caketable_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_caketable_01",
+          "furni_pizzeria_caketable_02",
+          "furni_pizzeria_caketable_03",
+          "shadow_01",
+          "shadow_02"
+        ],
+        "HIGH": [
+          "furni_pizzeria_caketable_01",
+          "furni_pizzeria_caketable_02",
+          "furni_pizzeria_caketable_03"
+        ],
+        "LOW": [
+          "furni_pizzeria_caketable_01",
+          "furni_pizzeria_caketable_02",
+          "furni_pizzeria_caketable_03"
+        ],
+        "LOWEST": [
+          "furni_pizzeria_caketable_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_roundtable_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_roundtable_01",
+          "furni_pizzeria_roundtable_02",
+          "furni_pizzeria_roundtable_03",
+          "shadow_01",
+          "shadow_02"
+        ],
+        "HIGH": [
+          "furni_pizzeria_roundtable_01",
+          "furni_pizzeria_roundtable_02",
+          "furni_pizzeria_roundtable_03"
+        ],
+        "LOW": [
+          "furni_pizzeria_roundtable_01",
+          "furni_pizzeria_roundtable_02"
+        ],
+        "LOWEST": [
+          "furni_pizzeria_roundtable_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_sconce_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_pizzeria_sconce_01",
+          "furni_pizzeria_sconce_02",
+          "furni_pizzeria_sconce_03",
+          "furni_pizzeria_sconce_04",
+          "furni_pizzeria_sconce_05",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_pizzeria_sconce_01",
+          "furni_pizzeria_sconce_02",
+          "furni_pizzeria_sconce_03",
+          "furni_pizzeria_sconce_04",
+          "furni_pizzeria_sconce_05"
+        ],
+        "LOW": [
+          "furni_pizzeria_sconce_01",
+          "furni_pizzeria_sconce_02",
+          "furni_pizzeria_sconce_04",
+          "furni_pizzeria_sconce_05"
+        ],
+        "LOWEST": [
+          "furni_pizzeria_sconce_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_pizzeria_wallpaper_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_pizzeria_floor_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_foolsDay_photowall_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_foolsDay_photowall_01",
+          "furni_foolsDay_photowall_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_foolsDay_photowall_01",
+          "furni_foolsDay_photowall_02"
+        ],
+        "LOW": [
+          "furni_foolsDay_photowall_01",
+          "furni_foolsDay_photowall_02"
+        ],
+        "LOWEST": [
+          "furni_foolsDay_photowall_01",
+          "furni_foolsDay_photowall_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_terracommericials_FowlbeastLiverPate_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_terracommericials_FowlbeastLiverPate_01"
+        ],
+        "HIGH": [
+          "furni_terracommericials_FowlbeastLiverPate_01"
+        ],
+        "LOW": [
+          "furni_terracommericials_FowlbeastLiverPate_01"
+        ],
+        "LOWEST": [
+          "furni_terracommericials_FowlbeastLiverPate_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_hangrack_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_hangrack_01",
+          "furni_ursusRoom_hangrack_02",
+          "furni_ursusRoom_hangrack_03"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_hangrack_01",
+          "furni_ursusRoom_hangrack_02",
+          "furni_ursusRoom_hangrack_03"
+        ],
+        "LOW": [
+          "furni_ursusRoom_hangrack_01",
+          "furni_ursusRoom_hangrack_02"
+        ],
+        "LOWEST": [
+          "furni_ursusRoom_hangrack_01",
+          "furni_ursusRoom_hangrack_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_ceilingLight_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_ceilingLight_01",
+          "furni_ursusRoom_ceilingLight_02",
+          "furni_ursusRoom_ceilingLight_03",
+          "furni_ursusRoom_ceilingLight_light_01"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_ceilingLight_01",
+          "furni_ursusRoom_ceilingLight_02",
+          "furni_ursusRoom_ceilingLight_03",
+          "furni_ursusRoom_ceilingLight_light_01"
+        ],
+        "LOW": [
+          "furni_ursusRoom_ceilingLight_01",
+          "furni_ursusRoom_ceilingLight_02",
+          "furni_ursusRoom_ceilingLight_03"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_cabinet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_cabinet_01",
+          "furni_ursusRoom_cabinet_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_cabinet_01",
+          "furni_ursusRoom_cabinet_02"
+        ],
+        "LOW": [
+          "furni_ursusRoom_cabinet_01",
+          "furni_ursusRoom_cabinet_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_hangcloth_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_hangcloth_01"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_hangcloth_01"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_woodcarving_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_woodcarving_01",
+          "furni_ursusRoom_woodcarving_02",
+          "furni_ursusRoom_woodcarving_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_woodcarving_01",
+          "furni_ursusRoom_woodcarving_02",
+          "furni_ursusRoom_woodcarving_03"
+        ],
+        "LOW": [
+          "furni_ursusRoom_woodcarving_01",
+          "furni_ursusRoom_woodcarving_02",
+          "furni_ursusRoom_woodcarving_03"
+        ],
+        "LOWEST": [
+          "furni_ursusRoom_woodcarving_01",
+          "furni_ursusRoom_woodcarving_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_fireplace_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_fireplace_01",
+          "furni_ursusRoom_fireplace_02",
+          "furni_ursusRoom_fireplace_03",
+          "furni_ursusRoom_fireplace_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_fireplace_01",
+          "furni_ursusRoom_fireplace_02",
+          "furni_ursusRoom_fireplace_03",
+          "furni_ursusRoom_fireplace_04"
+        ],
+        "LOW": [
+          "furni_ursusRoom_fireplace_01",
+          "furni_ursusRoom_fireplace_02",
+          "furni_ursusRoom_fireplace_03",
+          "furni_ursusRoom_fireplace_04"
+        ],
+        "LOWEST": [
+          "furni_ursusRoom_fireplace_01",
+          "furni_ursusRoom_fireplace_02",
+          "furni_ursusRoom_fireplace_03",
+          "furni_ursusRoom_fireplace_04"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_hangstuff_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_hangstuff_01",
+          "furni_ursusRoom_hangstuff_02",
+          "furni_ursusRoom_hangstuff_03",
+          "furni_ursusRoom_hangstuff_light_01"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_hangstuff_01",
+          "furni_ursusRoom_hangstuff_02",
+          "furni_ursusRoom_hangstuff_03",
+          "furni_ursusRoom_hangstuff_light_01"
+        ],
+        "LOW": [
+          "furni_ursusRoom_hangstuff_01",
+          "furni_ursusRoom_hangstuff_02",
+          "furni_ursusRoom_hangstuff_03"
+        ],
+        "LOWEST": [
+          "furni_ursusRoom_hangstuff_01",
+          "furni_ursusRoom_hangstuff_02",
+          "furni_ursusRoom_hangstuff_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_hangcarpet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_hangcarpet_01",
+          "furni_ursusRoom_hangcarpet_02",
+          "furni_ursusRoom_hangcarpet_03"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_hangcarpet_01",
+          "furni_ursusRoom_hangcarpet_02",
+          "furni_ursusRoom_hangcarpet_03"
+        ],
+        "LOW": [
+          "furni_ursusRoom_hangcarpet_01",
+          "furni_ursusRoom_hangcarpet_02",
+          "furni_ursusRoom_hangcarpet_03"
+        ],
+        "LOWEST": [
+          "furni_ursusRoom_hangcarpet_01",
+          "furni_ursusRoom_hangcarpet_02",
+          "furni_ursusRoom_hangcarpet_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_woodstake_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_woodstake_01",
+          "furni_ursusRoom_woodstake_02",
+          "furni_ursusRoom_woodstake_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_woodstake_01",
+          "furni_ursusRoom_woodstake_02",
+          "furni_ursusRoom_woodstake_03"
+        ],
+        "LOW": [
+          "furni_ursusRoom_woodstake_01",
+          "furni_ursusRoom_woodstake_02",
+          "furni_ursusRoom_woodstake_03"
+        ],
+        "LOWEST": [
+          "furni_ursusRoom_woodstake_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_stool_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_stool_01",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_stool_01"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_carpet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_carpet_01"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_carpet_01"
+        ],
+        "LOW": [
+          "furni_ursusRoom_carpet_01"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_stool_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_stool_02",
+          "furni_ursusRoom_stool_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_stool_02",
+          "furni_ursusRoom_stool_03"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_window_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_window_01",
+          "furni_ursusRoom_window_02",
+          "furni_ursusRoom_window_03"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_window_01",
+          "furni_ursusRoom_window_02",
+          "furni_ursusRoom_window_03"
+        ],
+        "LOW": [
+          "furni_ursusRoom_window_01",
+          "furni_ursusRoom_window_02",
+          "furni_ursusRoom_window_03"
+        ],
+        "LOWEST": [
+          "furni_ursusRoom_window_01",
+          "furni_ursusRoom_window_02",
+          "furni_ursusRoom_window_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_table_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_table_01",
+          "furni_ursusRoom_table_02",
+          "furni_ursusRoom_table_03",
+          "furni_ursusRoom_table_light_01",
+          "shadow_01",
+          "shadow_02"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_table_01",
+          "furni_ursusRoom_table_02",
+          "furni_ursusRoom_table_03",
+          "furni_ursusRoom_table_light_01"
+        ],
+        "LOW": [
+          "furni_ursusRoom_table_01",
+          "furni_ursusRoom_table_02",
+          "furni_ursusRoom_table_03"
+        ],
+        "LOWEST": [
+          "furni_ursusRoom_table_01",
+          "furni_ursusRoom_table_02",
+          "furni_ursusRoom_table_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_basin_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_basin_01",
+          "furni_ursusRoom_basin_02",
+          "furni_ursusRoom_basin_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_basin_01",
+          "furni_ursusRoom_basin_02",
+          "furni_ursusRoom_basin_03"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_hangcarpet_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_hangcarpet_02",
+          "furni_ursusRoom_hangcarpet_03",
+          "furni_ursusRoom_hangcarpet_04"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_hangcarpet_02",
+          "furni_ursusRoom_hangcarpet_03",
+          "furni_ursusRoom_hangcarpet_04"
+        ],
+        "LOW": [
+          "furni_ursusRoom_hangcarpet_02",
+          "furni_ursusRoom_hangcarpet_03",
+          "furni_ursusRoom_hangcarpet_04"
+        ],
+        "LOWEST": [
+          "furni_ursusRoom_hangcarpet_02",
+          "furni_ursusRoom_hangcarpet_04"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_cabinet_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_ursusRoom_cabinet_02",
+          "furni_ursusRoom_cabinet_03",
+          "furni_ursusRoom_cabinet_04",
+          "furni_ursusRoom_cabinet_light_02",
+          "shadow_01",
+          "shadow_02"
+        ],
+        "HIGH": [
+          "furni_ursusRoom_cabinet_02",
+          "furni_ursusRoom_cabinet_03",
+          "furni_ursusRoom_cabinet_04",
+          "furni_ursusRoom_cabinet_light_02"
+        ],
+        "LOW": [
+          "furni_ursusRoom_cabinet_02",
+          "furni_ursusRoom_cabinet_03"
+        ],
+        "LOWEST": [
+          "furni_ursusRoom_cabinet_02",
+          "furni_ursusRoom_cabinet_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_ursusRoom_wallpaper_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_ursusRoom_floor_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_enemyduel_diceAll_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_enemyduel_diceAll_01",
+          "furni_enemyduel_diceAll_02",
+          "furni_enemyduel_diceAll_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_enemyduel_diceAll_01",
+          "furni_enemyduel_diceAll_02",
+          "furni_enemyduel_diceAll_03"
+        ],
+        "LOW": [
+          "furni_enemyduel_diceAll_01",
+          "furni_enemyduel_diceAll_02",
+          "furni_enemyduel_diceAll_03"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_terracommericials_LifeWater_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_terracommericials_LifeWater_01"
+        ],
+        "HIGH": [
+          "furni_terracommericials_LifeWater_01"
+        ],
+        "LOW": [
+          "furni_terracommericials_LifeWater_01"
+        ],
+        "LOWEST": [
+          "furni_terracommericials_LifeWater_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_annihilation_s32_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_annihilation_s32_01"
+        ],
+        "HIGH": [
+          "furni_annihilation_s32_01"
+        ],
+        "LOW": [
+          "furni_annihilation_s32_01"
+        ],
+        "LOWEST": [
+          "furni_annihilation_s32_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_act72d6_audioPlayer_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "Bone_all",
+          "S_furni_act72d6_audioPlayer_01"
+        ],
+        "HIGH": [
+          "Bone_all",
+          "S_furni_act72d6_audioPlayer_01"
+        ],
+        "LOW": [
+          "Bone_all",
+          "S_furni_act72d6_audioPlayer_01"
+        ],
+        "LOWEST": [
+          "Bone_all",
+          "S_furni_act72d6_audioPlayer_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_act73d0_rabbits_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_act73d0_rabbits_01",
+          "furni_act73d0_rabbits_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_act73d0_rabbits_01",
+          "furni_act73d0_rabbits_02"
+        ],
+        "LOW": [
+          "furni_act73d0_rabbits_01",
+          "furni_act73d0_rabbits_02"
+        ],
+        "LOWEST": [
+          "furni_act73d0_rabbits_01",
+          "furni_act73d0_rabbits_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_shelf_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_shelf_01",
+          "furni_closureRoom_shelf_02",
+          "furni_closureRoom_shelf_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_closureRoom_shelf_01",
+          "furni_closureRoom_shelf_02",
+          "furni_closureRoom_shelf_03"
+        ],
+        "LOW": [
+          "furni_closureRoom_shelf_01",
+          "furni_closureRoom_shelf_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_collectioncabinet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_collectioncabinet_01",
+          "furni_closureRoom_collectioncabinet_02",
+          "furni_closureRoom_collectioncabinet_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_closureRoom_collectioncabinet_01",
+          "furni_closureRoom_collectioncabinet_02",
+          "furni_closureRoom_collectioncabinet_03"
+        ],
+        "LOW": [
+          "furni_closureRoom_collectioncabinet_01",
+          "furni_closureRoom_collectioncabinet_02"
+        ],
+        "LOWEST": [
+          "furni_closureRoom_collectioncabinet_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_computerdesk_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_computerdesk_01",
+          "furni_closureRoom_computerdesk_02",
+          "furni_closureRoom_computerdesk_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_closureRoom_computerdesk_01",
+          "furni_closureRoom_computerdesk_02",
+          "furni_closureRoom_computerdesk_03"
+        ],
+        "LOW": [
+          "furni_closureRoom_computerdesk_01",
+          "furni_closureRoom_computerdesk_02",
+          "furni_closureRoom_computerdesk_03"
+        ],
+        "LOWEST": [
+          "furni_closureRoom_computerdesk_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_ledchair_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_ledchair_01",
+          "furni_closureRoom_ledchair_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_closureRoom_ledchair_01",
+          "furni_closureRoom_ledchair_02"
+        ],
+        "LOW": [
+          "furni_closureRoom_ledchair_01",
+          "furni_closureRoom_ledchair_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_poster_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_poster_01"
+        ],
+        "HIGH": [
+          "furni_closureRoom_poster_01"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_poster_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_poster_02",
+          "furni_closureRoom_poster_03"
+        ],
+        "HIGH": [
+          "furni_closureRoom_poster_02",
+          "furni_closureRoom_poster_03"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_officedesk_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_officedesk_01",
+          "furni_closureRoom_officedesk_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_closureRoom_officedesk_01",
+          "furni_closureRoom_officedesk_02"
+        ],
+        "LOW": [
+          "furni_closureRoom_officedesk_01",
+          "furni_closureRoom_officedesk_02"
+        ],
+        "LOWEST": [
+          "furni_closureRoom_officedesk_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_chair_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_chair_01",
+          "furni_closureRoom_chair_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_closureRoom_chair_01",
+          "furni_closureRoom_chair_02"
+        ],
+        "LOW": [
+          "furni_closureRoom_chair_01"
+        ],
+        "LOWEST": [
+          "furni_closureRoom_chair_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_stool_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_stool_01",
+          "furni_closureRoom_stool_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_closureRoom_stool_01",
+          "furni_closureRoom_stool_02"
+        ],
+        "LOW": [
+          "furni_closureRoom_stool_01",
+          "furni_closureRoom_stool_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_ceilingLight_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_ceilingLight_01",
+          "furni_closureRoom_ceilingLight_02"
+        ],
+        "HIGH": [
+          "furni_closureRoom_ceilingLight_01",
+          "furni_closureRoom_ceilingLight_02"
+        ],
+        "LOW": [
+          "furni_closureRoom_ceilingLight_01",
+          "furni_closureRoom_ceilingLight_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_equipmentdesk_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_equipmentdesk_01",
+          "furni_closureRoom_equipmentdesk_02",
+          "furni_closureRoom_equipmentdesk_03",
+          "furni_closureRoom_equipmentdesk_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_closureRoom_equipmentdesk_01",
+          "furni_closureRoom_equipmentdesk_02",
+          "furni_closureRoom_equipmentdesk_03",
+          "furni_closureRoom_equipmentdesk_04"
+        ],
+        "LOW": [
+          "furni_closureRoom_equipmentdesk_01",
+          "furni_closureRoom_equipmentdesk_02",
+          "furni_closureRoom_equipmentdesk_03"
+        ],
+        "LOWEST": [
+          "furni_closureRoom_equipmentdesk_01",
+          "furni_closureRoom_equipmentdesk_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_cabinet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_cabinet_01",
+          "furni_closureRoom_cabinet_02",
+          "furni_closureRoom_cabinet_03",
+          "furni_closureRoom_cabinet_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_closureRoom_cabinet_01",
+          "furni_closureRoom_cabinet_02",
+          "furni_closureRoom_cabinet_03",
+          "furni_closureRoom_cabinet_04"
+        ],
+        "LOW": [
+          "furni_closureRoom_cabinet_01",
+          "furni_closureRoom_cabinet_02",
+          "furni_closureRoom_cabinet_03",
+          "furni_closureRoom_cabinet_04"
+        ],
+        "LOWEST": [
+          "furni_closureRoom_cabinet_01",
+          "furni_closureRoom_cabinet_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_table_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_table_01",
+          "furni_closureRoom_table_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_closureRoom_table_01",
+          "furni_closureRoom_table_02"
+        ],
+        "LOW": [
+          "furni_closureRoom_table_01",
+          "furni_closureRoom_table_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_workbench_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_workbench_01",
+          "furni_closureRoom_workbench_02",
+          "furni_closureRoom_workbench_03",
+          "furni_closureRoom_workbench_light_01",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_closureRoom_workbench_01",
+          "furni_closureRoom_workbench_02",
+          "furni_closureRoom_workbench_03",
+          "furni_closureRoom_workbench_light_01"
+        ],
+        "LOW": [
+          "furni_closureRoom_workbench_01",
+          "furni_closureRoom_workbench_02"
+        ],
+        "LOWEST": [
+          "furni_closureRoom_workbench_01",
+          "furni_closureRoom_workbench_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_carpet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_carpet_01"
+        ],
+        "HIGH": [
+          "furni_closureRoom_carpet_01"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_carpet_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_closureRoom_carpet_02"
+        ],
+        "HIGH": [
+          "furni_closureRoom_carpet_02"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_closureRoom_wallpaper_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_closureRoom_floor_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_rabbitCinema_ceilinglamp_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_ceilinglamp_01",
+          "furni_rabbitCinema_ceilinglamp_02"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_ceilinglamp_01",
+          "furni_rabbitCinema_ceilinglamp_02"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_table_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_table_01",
+          "furni_rabbitCinema_table_02",
+          "furni_rabbitCinema_table_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_table_01",
+          "furni_rabbitCinema_table_02",
+          "furni_rabbitCinema_table_03"
+        ],
+        "LOW": [
+          "furni_rabbitCinema_table_01",
+          "furni_rabbitCinema_table_02"
+        ],
+        "LOWEST": [
+          "furni_rabbitCinema_table_01",
+          "furni_rabbitCinema_table_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_stool_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_stool_01",
+          "furni_rabbitCinema_stool_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_stool_01",
+          "furni_rabbitCinema_stool_02"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_ceilinglamp_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_ceilinglamp_02",
+          "furni_rabbitCinema_ceilinglamp_03",
+          "furni_rabbitCinema_ceilinglamp_light_01"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_ceilinglamp_02",
+          "furni_rabbitCinema_ceilinglamp_03",
+          "furni_rabbitCinema_ceilinglamp_light_01"
+        ],
+        "LOW": [
+          "furni_rabbitCinema_ceilinglamp_02",
+          "furni_rabbitCinema_ceilinglamp_03"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_shelf_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_shelf_01",
+          "furni_rabbitCinema_shelf_02",
+          "furni_rabbitCinema_shelf_03",
+          "furni_rabbitCinema_shelf_04",
+          "furni_rabbitCinema_shelf_05",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_shelf_01",
+          "furni_rabbitCinema_shelf_02",
+          "furni_rabbitCinema_shelf_03",
+          "furni_rabbitCinema_shelf_04",
+          "furni_rabbitCinema_shelf_05"
+        ],
+        "LOW": [
+          "furni_rabbitCinema_shelf_01",
+          "furni_rabbitCinema_shelf_03"
+        ],
+        "LOWEST": [
+          "furni_rabbitCinema_shelf_01",
+          "furni_rabbitCinema_shelf_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_plant_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_plant_01",
+          "furni_rabbitCinema_plant_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_plant_01",
+          "furni_rabbitCinema_plant_02"
+        ],
+        "LOW": [
+          "furni_rabbitCinema_plant_01",
+          "furni_rabbitCinema_plant_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_table_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_table_02",
+          "furni_rabbitCinema_table_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_table_02",
+          "furni_rabbitCinema_table_03"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_desk_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_desk_01",
+          "furni_rabbitCinema_desk_02",
+          "furni_rabbitCinema_desk_03",
+          "furni_rabbitCinema_desk_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_desk_01",
+          "furni_rabbitCinema_desk_02",
+          "furni_rabbitCinema_desk_03",
+          "furni_rabbitCinema_desk_04"
+        ],
+        "LOW": [
+          "furni_rabbitCinema_desk_01",
+          "furni_rabbitCinema_desk_02"
+        ],
+        "LOWEST": [
+          "furni_rabbitCinema_desk_01",
+          "furni_rabbitCinema_desk_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_sofa_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_sofa_01",
+          "furni_rabbitCinema_sofa_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_sofa_01",
+          "furni_rabbitCinema_sofa_02"
+        ],
+        "LOW": [
+          "furni_rabbitCinema_sofa_01",
+          "furni_rabbitCinema_sofa_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_carpet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_carpet_01"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_carpet_01"
+        ],
+        "LOW": [
+          "furni_rabbitCinema_carpet_01"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_ceilinglamp_03": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_ceilinglamp_03",
+          "furni_rabbitCinema_ceilinglamp_04"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_ceilinglamp_03",
+          "furni_rabbitCinema_ceilinglamp_04"
+        ],
+        "LOW": [
+          "furni_rabbitCinema_ceilinglamp_03",
+          "furni_rabbitCinema_ceilinglamp_04"
+        ],
+        "LOWEST": [
+          "furni_rabbitCinema_ceilinglamp_03",
+          "furni_rabbitCinema_ceilinglamp_04"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_sofa_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_sofa_02",
+          "furni_rabbitCinema_sofa_03",
+          "furni_rabbitCinema_sofa_04",
+          "furni_rabbitCinema_sofa_05",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_sofa_02",
+          "furni_rabbitCinema_sofa_03",
+          "furni_rabbitCinema_sofa_04",
+          "furni_rabbitCinema_sofa_05"
+        ],
+        "LOW": [
+          "furni_rabbitCinema_sofa_02",
+          "furni_rabbitCinema_sofa_03"
+        ],
+        "LOWEST": [
+          "furni_rabbitCinema_sofa_02",
+          "furni_rabbitCinema_sofa_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_shelf_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_shelf_02",
+          "furni_rabbitCinema_shelf_03",
+          "furni_rabbitCinema_shelf_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_shelf_02",
+          "furni_rabbitCinema_shelf_03",
+          "furni_rabbitCinema_shelf_04"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_curtain_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_curtain_01",
+          "furni_rabbitCinema_curtain_02"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_curtain_01",
+          "furni_rabbitCinema_curtain_02"
+        ],
+        "LOW": [
+          "furni_rabbitCinema_curtain_01",
+          "furni_rabbitCinema_curtain_02"
+        ],
+        "LOWEST": [
+          "furni_rabbitCinema_curtain_01",
+          "furni_rabbitCinema_curtain_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_tv_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_tv_01",
+          "furni_rabbitCinema_tv_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_tv_01",
+          "furni_rabbitCinema_tv_02"
+        ],
+        "LOW": [
+          "furni_rabbitCinema_tv_01",
+          "furni_rabbitCinema_tv_02"
+        ],
+        "LOWEST": [
+          "furni_rabbitCinema_tv_01",
+          "furni_rabbitCinema_tv_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_coffeeTable_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_coffeeTable_01",
+          "furni_rabbitCinema_coffeeTable_02",
+          "furni_rabbitCinema_coffeeTable_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_coffeeTable_01",
+          "furni_rabbitCinema_coffeeTable_02",
+          "furni_rabbitCinema_coffeeTable_03"
+        ],
+        "LOW": [
+          "furni_rabbitCinema_coffeeTable_01",
+          "furni_rabbitCinema_coffeeTable_02"
+        ],
+        "LOWEST": [
+          "furni_rabbitCinema_coffeeTable_01",
+          "furni_rabbitCinema_coffeeTable_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_shelf_03": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitCinema_shelf_03",
+          "furni_rabbitCinema_shelf_04",
+          "furni_rabbitCinema_shelf_05",
+          "furni_rabbitCinema_shelf_light_01",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitCinema_shelf_03",
+          "furni_rabbitCinema_shelf_04",
+          "furni_rabbitCinema_shelf_05",
+          "furni_rabbitCinema_shelf_light_01"
+        ],
+        "LOW": [
+          "furni_rabbitCinema_shelf_03",
+          "furni_rabbitCinema_shelf_04"
+        ],
+        "LOWEST": [
+          "furni_rabbitCinema_shelf_03",
+          "furni_rabbitCinema_shelf_04"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitCinema_wallpaper_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_rabbitCinema_floor_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_act73d0_pizzarug_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_act73d0_pizzarug_01"
+        ],
+        "HIGH": [
+          "furni_act73d0_pizzarug_01"
+        ],
+        "LOW": [
+          "furni_act73d0_pizzarug_01"
+        ],
+        "LOWEST": [
+          "furni_act73d0_pizzarug_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_terracommericials_CrucibleCreamPuff_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_terracommericials_CrucibleCreamPuff_01"
+        ],
+        "HIGH": [
+          "furni_terracommericials_CrucibleCreamPuff_01"
+        ],
+        "LOW": [
+          "furni_terracommericials_CrucibleCreamPuff_01"
+        ],
+        "LOWEST": [
+          "furni_terracommericials_CrucibleCreamPuff_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furniM_act73d0_messageboard_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_act73d0_messageboard_01",
+          "furniM_act73d0_messageboard_02",
+          "furniM_act73d0_messageboard_03",
+          "furniM_act73d0_messageboard_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furniM_act73d0_messageboard_01",
+          "furniM_act73d0_messageboard_02",
+          "furniM_act73d0_messageboard_03",
+          "furniM_act73d0_messageboard_04"
+        ],
+        "LOW": [
+          "furniM_act73d0_messageboard_01",
+          "furniM_act73d0_messageboard_02",
+          "furniM_act73d0_messageboard_03",
+          "furniM_act73d0_messageboard_04"
+        ],
+        "LOWEST": [
+          "furniM_act73d0_messageboard_01",
+          "furniM_act73d0_messageboard_02",
+          "furniM_act73d0_messageboard_03",
+          "furniM_act73d0_messageboard_04"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_act73d4_projectionModel_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "Bone_all_01",
+          "S_furni_act73d4_projectionModel_01"
+        ],
+        "HIGH": [
+          "Bone_all_01",
+          "S_furni_act73d4_projectionModel_01"
+        ],
+        "LOW": [
+          "Bone_all_01",
+          "S_furni_act73d4_projectionModel_01"
+        ],
+        "LOWEST": [
+          "Bone_all_01",
+          "S_furni_act73d4_projectionModel_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_hanger_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_Azuredream_hanger_01",
+          "furni_Azuredream_hanger_02",
+          "furni_Azuredream_hanger_03"
+        ],
+        "HIGH": [
+          "furni_Azuredream_hanger_01",
+          "furni_Azuredream_hanger_02",
+          "furni_Azuredream_hanger_03"
+        ],
+        "LOW": [
+          "furni_Azuredream_hanger_01",
+          "furni_Azuredream_hanger_02",
+          "furni_Azuredream_hanger_03"
+        ],
+        "LOWEST": [
+          "furni_Azuredream_hanger_01",
+          "furni_Azuredream_hanger_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_brazier_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_Azuredream_brazier_01",
+          "furni_Azuredream_brazier_02",
+          "furni_Azuredream_brazier_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_Azuredream_brazier_01",
+          "furni_Azuredream_brazier_02",
+          "furni_Azuredream_brazier_03"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_shelf_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_Azuredream_shelf_01",
+          "furni_Azuredream_shelf_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_Azuredream_shelf_01",
+          "furni_Azuredream_shelf_02"
+        ],
+        "LOW": [
+          "furni_Azuredream_shelf_01"
+        ],
+        "LOWEST": [
+          "furni_Azuredream_shelf_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_cabinet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_Azuredream_cabinet_01",
+          "furni_Azuredream_cabinet_02",
+          "furni_Azuredream_cabinet_03",
+          "furni_Azuredream_cabinet_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_Azuredream_cabinet_01",
+          "furni_Azuredream_cabinet_02",
+          "furni_Azuredream_cabinet_03",
+          "furni_Azuredream_cabinet_04"
+        ],
+        "LOW": [
+          "furni_Azuredream_cabinet_01",
+          "furni_Azuredream_cabinet_02",
+          "furni_Azuredream_cabinet_03",
+          "furni_Azuredream_cabinet_04"
+        ],
+        "LOWEST": [
+          "furni_Azuredream_cabinet_01",
+          "furni_Azuredream_cabinet_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_ceilingLight_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_Azuredream_ceilingLight_01",
+          "furni_Azuredream_ceilingLight_02",
+          "furni_Azuredream_ceilingLight_03",
+          "furni_Azuredream_ceilingLight_light_01"
+        ],
+        "HIGH": [
+          "furni_Azuredream_ceilingLight_01",
+          "furni_Azuredream_ceilingLight_02",
+          "furni_Azuredream_ceilingLight_03",
+          "furni_Azuredream_ceilingLight_light_01"
+        ],
+        "LOW": [
+          "furni_Azuredream_ceilingLight_01",
+          "furni_Azuredream_ceilingLight_02",
+          "furni_Azuredream_ceilingLight_03"
+        ],
+        "LOWEST": [
+          "furni_Azuredream_ceilingLight_01",
+          "furni_Azuredream_ceilingLight_02",
+          "furni_Azuredream_ceilingLight_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_table_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_Azuredream_table_01",
+          "furni_Azuredream_table_02",
+          "furni_Azuredream_table_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_Azuredream_table_01",
+          "furni_Azuredream_table_02",
+          "furni_Azuredream_table_03"
+        ],
+        "LOW": [
+          "furni_Azuredream_table_01"
+        ],
+        "LOWEST": [
+          "furni_Azuredream_table_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_carpet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_Azuredream_carpet_01"
+        ],
+        "HIGH": [
+          "furni_Azuredream_carpet_01"
+        ],
+        "LOW": [
+          "furni_Azuredream_carpet_01"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_pillar_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_Azuredream_pillar_01",
+          "furni_Azuredream_pillar_02",
+          "furni_Azuredream_pillar_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_Azuredream_pillar_01",
+          "furni_Azuredream_pillar_02",
+          "furni_Azuredream_pillar_03"
+        ],
+        "LOW": [
+          "furni_Azuredream_pillar_01",
+          "furni_Azuredream_pillar_02",
+          "furni_Azuredream_pillar_03"
+        ],
+        "LOWEST": [
+          "furni_Azuredream_pillar_01",
+          "furni_Azuredream_pillar_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_leafWall_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_Azuredream_leafWall_01",
+          "furni_Azuredream_leafWall_02"
+        ],
+        "HIGH": [
+          "furni_Azuredream_leafWall_01",
+          "furni_Azuredream_leafWall_02"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_bed_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_Azuredream_bed_01",
+          "furni_Azuredream_bed_02",
+          "furni_Azuredream_bed_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_Azuredream_bed_01",
+          "furni_Azuredream_bed_02",
+          "furni_Azuredream_bed_03"
+        ],
+        "LOW": [
+          "furni_Azuredream_bed_01",
+          "furni_Azuredream_bed_02",
+          "furni_Azuredream_bed_03"
+        ],
+        "LOWEST": [
+          "furni_Azuredream_bed_01",
+          "furni_Azuredream_bed_02",
+          "furni_Azuredream_bed_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_chair_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_Azuredream_chair_01",
+          "furni_Azuredream_chair_02",
+          "furni_Azuredream_chair_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_Azuredream_chair_01",
+          "furni_Azuredream_chair_02",
+          "furni_Azuredream_chair_03"
+        ],
+        "LOW": [
+          "furni_Azuredream_chair_01",
+          "furni_Azuredream_chair_02",
+          "furni_Azuredream_chair_03"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_crate_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_Azuredream_crate_01",
+          "furni_Azuredream_crate_02",
+          "furni_Azuredream_crate_03",
+          "furni_Azuredream_crate_light_01",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_Azuredream_crate_01",
+          "furni_Azuredream_crate_02",
+          "furni_Azuredream_crate_03",
+          "furni_Azuredream_crate_light_01"
+        ],
+        "LOW": [
+          "furni_Azuredream_crate_01",
+          "furni_Azuredream_crate_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_column_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_Azuredream_column_01",
+          "furni_Azuredream_column_02",
+          "furni_Azuredream_column_03",
+          "shadow_01",
+          "shadow_02"
+        ],
+        "HIGH": [
+          "furni_Azuredream_column_01",
+          "furni_Azuredream_column_02",
+          "furni_Azuredream_column_03"
+        ],
+        "LOW": [
+          "furni_Azuredream_column_01",
+          "furni_Azuredream_column_02",
+          "furni_Azuredream_column_03"
+        ],
+        "LOWEST": [
+          "furni_Azuredream_column_01",
+          "furni_Azuredream_column_02",
+          "furni_Azuredream_column_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_furStand_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_Azuredream_furStand_01",
+          "furni_Azuredream_furStand_02",
+          "furni_Azuredream_furStand_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_Azuredream_furStand_01",
+          "furni_Azuredream_furStand_02",
+          "furni_Azuredream_furStand_03"
+        ],
+        "LOW": [
+          "furni_Azuredream_furStand_01",
+          "furni_Azuredream_furStand_03"
+        ],
+        "LOWEST": [
+          "furni_Azuredream_furStand_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_basket_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_Azuredream_basket_01",
+          "furni_Azuredream_basket_02",
+          "furni_Azuredream_basket_03",
+          "furni_Azuredream_basket_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_Azuredream_basket_01",
+          "furni_Azuredream_basket_02",
+          "furni_Azuredream_basket_03",
+          "furni_Azuredream_basket_04"
+        ],
+        "LOW": [
+          "furni_Azuredream_basket_01",
+          "furni_Azuredream_basket_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_Azuredream_wallpaper_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_Azuredream_floor_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_act71d0_grill_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_act71d0_grill_01",
+          "furni_act71d0_grill_02",
+          "furni_act71d0_grill_03",
+          "furni_act71d0_grill_04",
+          "furni_act71d0_grill_05"
+        ],
+        "HIGH": [
+          "furni_act71d0_grill_01",
+          "furni_act71d0_grill_02",
+          "furni_act71d0_grill_03",
+          "furni_act71d0_grill_04",
+          "furni_act71d0_grill_05"
+        ],
+        "LOW": [
+          "furni_act71d0_grill_01",
+          "furni_act71d0_grill_02",
+          "furni_act71d0_grill_04",
+          "furni_act71d0_grill_05"
+        ],
+        "LOWEST": [
+          "furni_act71d0_grill_01",
+          "furni_act71d0_grill_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_duanwu2026_sweet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_duanwu2026_sweet_01",
+          "furni_duanwu2026_sweet_02",
+          "furni_duanwu2026_sweet_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_duanwu2026_sweet_01",
+          "furni_duanwu2026_sweet_02",
+          "furni_duanwu2026_sweet_03"
+        ],
+        "LOW": [
+          "furni_duanwu2026_sweet_01",
+          "furni_duanwu2026_sweet_02",
+          "furni_duanwu2026_sweet_03"
+        ],
+        "LOWEST": [
+          "furni_duanwu2026_sweet_01",
+          "furni_duanwu2026_sweet_02",
+          "furni_duanwu2026_sweet_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_duanwu2026_salted_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_duanwu2026_salted_01",
+          "furni_duanwu2026_salted_02",
+          "furni_duanwu2026_salted_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_duanwu2026_salted_01",
+          "furni_duanwu2026_salted_02",
+          "furni_duanwu2026_salted_03"
+        ],
+        "LOW": [
+          "furni_duanwu2026_salted_01",
+          "furni_duanwu2026_salted_02",
+          "furni_duanwu2026_salted_03"
+        ],
+        "LOWEST": [
+          "furni_duanwu2026_salted_01",
+          "furni_duanwu2026_salted_02",
+          "furni_duanwu2026_salted_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_contract2_s5_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_contract2_s5_01"
+        ],
+        "HIGH": [
+          "furni_contract2_s5_01"
+        ],
+        "LOW": [
+          "furni_contract2_s5_01"
+        ],
+        "LOWEST": [
+          "furni_contract2_s5_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_littlePony_photoframe_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_littlePony_photoframe_01",
+          "furni_littlePony_photoframe_02",
+          "furni_littlePony_photoframe_03",
+          "furni_littlePony_photoframe_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_littlePony_photoframe_01",
+          "furni_littlePony_photoframe_02",
+          "furni_littlePony_photoframe_03",
+          "furni_littlePony_photoframe_04"
+        ],
+        "LOW": [
+          "furni_littlePony_photoframe_01",
+          "furni_littlePony_photoframe_02",
+          "furni_littlePony_photoframe_03",
+          "furni_littlePony_photoframe_04"
+        ],
+        "LOWEST": [
+          "furni_littlePony_photoframe_01",
+          "furni_littlePony_photoframe_02",
+          "furni_littlePony_photoframe_04"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_littlePony_diary_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_littlePony_diary_01",
+          "furni_littlePony_diary_02",
+          "furni_littlePony_diary_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_littlePony_diary_01",
+          "furni_littlePony_diary_02",
+          "furni_littlePony_diary_03"
+        ],
+        "LOW": [
+          "furni_littlePony_diary_01",
+          "furni_littlePony_diary_02"
+        ],
+        "LOWEST": [
+          "furni_littlePony_diary_01",
+          "furni_littlePony_diary_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furniM_littlePony_musicplayer_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_littlePony_musicplayer_01",
+          "furniM_littlePony_musicplayer_02",
+          "furniM_littlePony_musicplayer_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furniM_littlePony_musicplayer_01",
+          "furniM_littlePony_musicplayer_02",
+          "furniM_littlePony_musicplayer_03"
+        ],
+        "LOW": [
+          "furniM_littlePony_musicplayer_01",
+          "furniM_littlePony_musicplayer_02",
+          "furniM_littlePony_musicplayer_03"
+        ],
+        "LOWEST": [
+          "furniM_littlePony_musicplayer_01",
+          "furniM_littlePony_musicplayer_02",
+          "furniM_littlePony_musicplayer_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_ceilingLight_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_ceilingLight_01",
+          "furni_aphrissaRoom_ceilingLight_02"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_ceilingLight_01",
+          "furni_aphrissaRoom_ceilingLight_02"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_cabinet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_cabinet_01",
+          "furni_aphrissaRoom_cabinet_02",
+          "furni_aphrissaRoom_cabinet_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_cabinet_01",
+          "furni_aphrissaRoom_cabinet_02",
+          "furni_aphrissaRoom_cabinet_03"
+        ],
+        "LOW": [
+          "furni_aphrissaRoom_cabinet_01",
+          "furni_aphrissaRoom_cabinet_03"
+        ],
+        "LOWEST": [
+          "furni_aphrissaRoom_cabinet_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_originium_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_originium_01",
+          "furni_aphrissaRoom_originium_02",
+          "furni_aphrissaRoom_originium_light_01",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_originium_01",
+          "furni_aphrissaRoom_originium_02",
+          "furni_aphrissaRoom_originium_light_01"
+        ],
+        "LOW": [
+          "furni_aphrissaRoom_originium_01",
+          "furni_aphrissaRoom_originium_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_ceilingLight_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_ceilingLight_02"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_ceilingLight_02"
+        ],
+        "LOW": [
+          "furni_aphrissaRoom_ceilingLight_02"
+        ],
+        "LOWEST": [
+          "furni_aphrissaRoom_ceilingLight_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_stool_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_stool_01",
+          "furni_aphrissaRoom_stool_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_stool_01",
+          "furni_aphrissaRoom_stool_02"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_desk_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_desk_01",
+          "furni_aphrissaRoom_desk_02",
+          "furni_aphrissaRoom_desk_03",
+          "furni_aphrissaRoom_desk_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_desk_01",
+          "furni_aphrissaRoom_desk_02",
+          "furni_aphrissaRoom_desk_03",
+          "furni_aphrissaRoom_desk_04"
+        ],
+        "LOW": [
+          "furni_aphrissaRoom_desk_01",
+          "furni_aphrissaRoom_desk_02",
+          "furni_aphrissaRoom_desk_03",
+          "furni_aphrissaRoom_desk_04"
+        ],
+        "LOWEST": [
+          "furni_aphrissaRoom_desk_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_machine_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_machine_01",
+          "furni_aphrissaRoom_machine_02",
+          "furni_aphrissaRoom_machine_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_machine_01",
+          "furni_aphrissaRoom_machine_02",
+          "furni_aphrissaRoom_machine_03"
+        ],
+        "LOW": [
+          "furni_aphrissaRoom_machine_01",
+          "furni_aphrissaRoom_machine_02"
+        ],
+        "LOWEST": [
+          "furni_aphrissaRoom_machine_01",
+          "furni_aphrissaRoom_machine_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_stool_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_stool_02",
+          "furni_aphrissaRoom_stool_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_stool_02",
+          "furni_aphrissaRoom_stool_03"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_screen_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_screen_01",
+          "furni_aphrissaRoom_screen_02"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_screen_01",
+          "furni_aphrissaRoom_screen_02"
+        ],
+        "LOW": [
+          "furni_aphrissaRoom_screen_01",
+          "furni_aphrissaRoom_screen_02"
+        ],
+        "LOWEST": [
+          "furni_aphrissaRoom_screen_01",
+          "furni_aphrissaRoom_screen_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_table_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_table_01",
+          "furni_aphrissaRoom_table_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_table_01",
+          "furni_aphrissaRoom_table_02"
+        ],
+        "LOW": [
+          "furni_aphrissaRoom_table_01",
+          "furni_aphrissaRoom_table_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_carpet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_carpet_01"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_carpet_01"
+        ],
+        "LOW": [
+          "furni_aphrissaRoom_carpet_01"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_computer_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_computer_01",
+          "furni_aphrissaRoom_computer_02",
+          "furni_aphrissaRoom_computer_03"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_computer_01",
+          "furni_aphrissaRoom_computer_02",
+          "furni_aphrissaRoom_computer_03"
+        ],
+        "LOW": [
+          "furni_aphrissaRoom_computer_01"
+        ],
+        "LOWEST": [
+          "furni_aphrissaRoom_computer_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_originium_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_originium_02",
+          "furni_aphrissaRoom_originium_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_originium_02",
+          "furni_aphrissaRoom_originium_03"
+        ],
+        "LOW": [
+          "furni_aphrissaRoom_originium_02",
+          "furni_aphrissaRoom_originium_03"
+        ],
+        "LOWEST": [
+          "furni_aphrissaRoom_originium_02",
+          "furni_aphrissaRoom_originium_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_computer_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_computer_02",
+          "furni_aphrissaRoom_computer_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_computer_02",
+          "furni_aphrissaRoom_computer_03"
+        ],
+        "LOW": [
+          "furni_aphrissaRoom_computer_02",
+          "furni_aphrissaRoom_computer_03"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_detector_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_detector_01",
+          "furni_aphrissaRoom_detector_02",
+          "furni_aphrissaRoom_detector_03",
+          "shadow_01",
+          "shadow_02"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_detector_01",
+          "furni_aphrissaRoom_detector_02",
+          "furni_aphrissaRoom_detector_03"
+        ],
+        "LOW": [
+          "furni_aphrissaRoom_detector_01",
+          "furni_aphrissaRoom_detector_02"
+        ],
+        "LOWEST": [
+          "furni_aphrissaRoom_detector_01",
+          "furni_aphrissaRoom_detector_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_partition_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_partition_01",
+          "furni_aphrissaRoom_partition_02",
+          "furni_aphrissaRoom_partition_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_partition_01",
+          "furni_aphrissaRoom_partition_02",
+          "furni_aphrissaRoom_partition_03"
+        ],
+        "LOW": [
+          "furni_aphrissaRoom_partition_01",
+          "furni_aphrissaRoom_partition_02",
+          "furni_aphrissaRoom_partition_03"
+        ],
+        "LOWEST": [
+          "furni_aphrissaRoom_partition_01",
+          "furni_aphrissaRoom_partition_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_partition_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_partition_02",
+          "furni_aphrissaRoom_partition_03",
+          "furni_aphrissaRoom_partition_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_partition_02",
+          "furni_aphrissaRoom_partition_03",
+          "furni_aphrissaRoom_partition_04"
+        ],
+        "LOW": [
+          "furni_aphrissaRoom_partition_02",
+          "furni_aphrissaRoom_partition_03",
+          "furni_aphrissaRoom_partition_04"
+        ],
+        "LOWEST": [
+          "furni_aphrissaRoom_partition_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_detector_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_detector_02",
+          "furni_aphrissaRoom_detector_03",
+          "furni_aphrissaRoom_detector_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_detector_02",
+          "furni_aphrissaRoom_detector_03",
+          "furni_aphrissaRoom_detector_04"
+        ],
+        "LOW": [
+          "furni_aphrissaRoom_detector_02",
+          "furni_aphrissaRoom_detector_03"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_carpet_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_aphrissaRoom_carpet_02"
+        ],
+        "HIGH": [
+          "furni_aphrissaRoom_carpet_02"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_aphrissaRoom_wallpaper_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_aphrissaRoom_floor_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_recalrunes_ashring_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_recalrunes_ashring_01"
+        ],
+        "HIGH": [
+          "furni_recalrunes_ashring_01"
+        ],
+        "LOW": [
+          "furni_recalrunes_ashring_01"
+        ],
+        "LOWEST": [
+          "furni_recalrunes_ashring_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_terracommericials_boutique_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_terracommericials_boutique_01"
+        ],
+        "HIGH": [
+          "furni_terracommericials_boutique_01"
+        ],
+        "LOW": [
+          "furni_terracommericials_boutique_01"
+        ],
+        "LOWEST": [
+          "furni_terracommericials_boutique_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_annihilation_s33_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_annihilation_s33_01"
+        ],
+        "HIGH": [
+          "furni_annihilation_s33_01"
+        ],
+        "LOW": [
+          "furni_annihilation_s33_01"
+        ],
+        "LOWEST": [
+          "furni_annihilation_s33_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_storageCabinet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_storageCabinet_01",
+          "furni_messengerCottage_storageCabinet_02",
+          "furni_messengerCottage_storageCabinet_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_storageCabinet_01",
+          "furni_messengerCottage_storageCabinet_02",
+          "furni_messengerCottage_storageCabinet_03"
+        ],
+        "LOW": [
+          "furni_messengerCottage_storageCabinet_01"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_smallTable_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_smallTable_01",
+          "furni_messengerCottage_smallTable_02",
+          "furni_messengerCottage_smallTable_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_smallTable_01",
+          "furni_messengerCottage_smallTable_02",
+          "furni_messengerCottage_smallTable_03"
+        ],
+        "LOW": [
+          "furni_messengerCottage_smallTable_01",
+          "furni_messengerCottage_smallTable_02",
+          "furni_messengerCottage_smallTable_03"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_hangrack_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_hangrack_01",
+          "furni_messengerCottage_hangrack_02",
+          "furni_messengerCottage_hangrack_03",
+          "furni_messengerCottage_hangrack_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_hangrack_01",
+          "furni_messengerCottage_hangrack_02",
+          "furni_messengerCottage_hangrack_03",
+          "furni_messengerCottage_hangrack_04"
+        ],
+        "LOW": [
+          "furni_messengerCottage_hangrack_01",
+          "furni_messengerCottage_hangrack_02"
+        ],
+        "LOWEST": [
+          "furni_messengerCottage_hangrack_01",
+          "furni_messengerCottage_hangrack_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_chair_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_chair_01",
+          "furni_messengerCottage_chair_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_chair_01",
+          "furni_messengerCottage_chair_02"
+        ],
+        "LOW": [
+          "furni_messengerCottage_chair_01",
+          "furni_messengerCottage_chair_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_sidetable_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_sidetable_01",
+          "furni_messengerCottage_sidetable_02",
+          "furni_messengerCottage_sidetable_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_sidetable_01",
+          "furni_messengerCottage_sidetable_02",
+          "furni_messengerCottage_sidetable_03"
+        ],
+        "LOW": [
+          "furni_messengerCottage_sidetable_01",
+          "furni_messengerCottage_sidetable_02",
+          "furni_messengerCottage_sidetable_03"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_standingLamp_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_standingLamp_01",
+          "furni_messengerCottage_standingLamp_02",
+          "furni_messengerCottage_standingLamp_03",
+          "furni_messengerCottage_standingLamp_light_01",
+          "furni_messengerCottage_standingLamp_light_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_standingLamp_01",
+          "furni_messengerCottage_standingLamp_02",
+          "furni_messengerCottage_standingLamp_03",
+          "furni_messengerCottage_standingLamp_light_01",
+          "furni_messengerCottage_standingLamp_light_02"
+        ],
+        "LOW": [
+          "furni_messengerCottage_standingLamp_01",
+          "furni_messengerCottage_standingLamp_02"
+        ],
+        "LOWEST": [
+          "furni_messengerCottage_standingLamp_01",
+          "furni_messengerCottage_standingLamp_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_sofa_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_sofa_01",
+          "furni_messengerCottage_sofa_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_sofa_01",
+          "furni_messengerCottage_sofa_02"
+        ],
+        "LOW": [
+          "furni_messengerCottage_sofa_01"
+        ],
+        "LOWEST": [
+          "furni_messengerCottage_sofa_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_ceilingShelf_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_ceilingShelf_01",
+          "furni_messengerCottage_ceilingShelf_02",
+          "furni_messengerCottage_ceilingShelf_03",
+          "furni_messengerCottage_ceilingShelf_04"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_ceilingShelf_01",
+          "furni_messengerCottage_ceilingShelf_02",
+          "furni_messengerCottage_ceilingShelf_03",
+          "furni_messengerCottage_ceilingShelf_04"
+        ],
+        "LOW": [
+          "furni_messengerCottage_ceilingShelf_01",
+          "furni_messengerCottage_ceilingShelf_03"
+        ],
+        "LOWEST": [
+          "furni_messengerCottage_ceilingShelf_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_wallShelf_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_wallShelf_01",
+          "furni_messengerCottage_wallShelf_02",
+          "furni_messengerCottage_wallShelf_03"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_wallShelf_01",
+          "furni_messengerCottage_wallShelf_02",
+          "furni_messengerCottage_wallShelf_03"
+        ],
+        "LOW": [
+          "furni_messengerCottage_wallShelf_01",
+          "furni_messengerCottage_wallShelf_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_poster_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_poster_01",
+          "furni_messengerCottage_poster_02"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_poster_01",
+          "furni_messengerCottage_poster_02"
+        ],
+        "LOW": [
+          "furni_messengerCottage_poster_01"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_bedsideCarpet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_bedsideCarpet_01"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_bedsideCarpet_01"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_shelf_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_shelf_01",
+          "furni_messengerCottage_shelf_02",
+          "furni_messengerCottage_shelf_03",
+          "furni_messengerCottage_shelf_04",
+          "furni_messengerCottage_shelf_05",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_shelf_01",
+          "furni_messengerCottage_shelf_02",
+          "furni_messengerCottage_shelf_03",
+          "furni_messengerCottage_shelf_04",
+          "furni_messengerCottage_shelf_05"
+        ],
+        "LOW": [
+          "furni_messengerCottage_shelf_01",
+          "furni_messengerCottage_shelf_02"
+        ],
+        "LOWEST": [
+          "furni_messengerCottage_shelf_01",
+          "furni_messengerCottage_shelf_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_storageShelf_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_storageShelf_01",
+          "furni_messengerCottage_storageShelf_02",
+          "furni_messengerCottage_storageShelf_03",
+          "furni_messengerCottage_storageShelf_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_storageShelf_01",
+          "furni_messengerCottage_storageShelf_02",
+          "furni_messengerCottage_storageShelf_03",
+          "furni_messengerCottage_storageShelf_04"
+        ],
+        "LOW": [
+          "furni_messengerCottage_storageShelf_01",
+          "furni_messengerCottage_storageShelf_02"
+        ],
+        "LOWEST": [
+          "furni_messengerCottage_storageShelf_01",
+          "furni_messengerCottage_storageShelf_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_trashBin_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_trashBin_01",
+          "furni_messengerCottage_trashBin_02",
+          "furni_messengerCottage_trashBin_03",
+          "furni_messengerCottage_trashBin_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_trashBin_01",
+          "furni_messengerCottage_trashBin_02",
+          "furni_messengerCottage_trashBin_03",
+          "furni_messengerCottage_trashBin_04"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_carpet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_carpet_01"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_carpet_01"
+        ],
+        "LOW": [
+          "furni_messengerCottage_carpet_01"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_ceilingLight_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_ceilingLight_01",
+          "furni_messengerCottage_ceilingLight_02",
+          "furni_messengerCottage_ceilingLight_03"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_ceilingLight_01",
+          "furni_messengerCottage_ceilingLight_02",
+          "furni_messengerCottage_ceilingLight_03"
+        ],
+        "LOW": [
+          "furni_messengerCottage_ceilingLight_01",
+          "furni_messengerCottage_ceilingLight_02",
+          "furni_messengerCottage_ceilingLight_03"
+        ],
+        "LOWEST": [
+          "furni_messengerCottage_ceilingLight_01",
+          "furni_messengerCottage_ceilingLight_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_desk_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_desk_01",
+          "furni_messengerCottage_desk_02",
+          "furni_messengerCottage_desk_03",
+          "furni_messengerCottage_desk_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_desk_01",
+          "furni_messengerCottage_desk_02",
+          "furni_messengerCottage_desk_03",
+          "furni_messengerCottage_desk_04"
+        ],
+        "LOW": [
+          "furni_messengerCottage_desk_01",
+          "furni_messengerCottage_desk_02"
+        ],
+        "LOWEST": [
+          "furni_messengerCottage_desk_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_bed_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_bed_01",
+          "furni_messengerCottage_bed_02",
+          "furni_messengerCottage_bed_03",
+          "furni_messengerCottage_bed_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_bed_01",
+          "furni_messengerCottage_bed_02",
+          "furni_messengerCottage_bed_03",
+          "furni_messengerCottage_bed_04"
+        ],
+        "LOW": [
+          "furni_messengerCottage_bed_01",
+          "furni_messengerCottage_bed_02"
+        ],
+        "LOWEST": [
+          "furni_messengerCottage_bed_01",
+          "furni_messengerCottage_bed_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_messengerCottage_tvStand_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_messengerCottage_tvStand_01",
+          "furni_messengerCottage_tvStand_02",
+          "furni_messengerCottage_tvStand_03",
+          "furni_messengerCottage_tvStand_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_messengerCottage_tvStand_01",
+          "furni_messengerCottage_tvStand_02",
+          "furni_messengerCottage_tvStand_03",
+          "furni_messengerCottage_tvStand_04"
+        ],
+        "LOW": [
+          "furni_messengerCottage_tvStand_01",
+          "furni_messengerCottage_tvStand_02",
+          "furni_messengerCottage_tvStand_04"
+        ],
+        "LOWEST": [
+          "furni_messengerCottage_tvStand_01",
+          "furni_messengerCottage_tvStand_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_workStool_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_workStool_01",
+          "furni_rabbitTown_workStool_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_workStool_01",
+          "furni_rabbitTown_workStool_02"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_wallShelf_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_wallShelf_01",
+          "furni_rabbitTown_wallShelf_02"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_wallShelf_01",
+          "furni_rabbitTown_wallShelf_02"
+        ],
+        "LOW": [
+          "furni_rabbitTown_wallShelf_01",
+          "furni_rabbitTown_wallShelf_02"
+        ],
+        "LOWEST": [
+          "furni_rabbitTown_wallShelf_01",
+          "furni_rabbitTown_wallShelf_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_treeCabinet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_treeCabinet_01",
+          "furni_rabbitTown_treeCabinet_02",
+          "furni_rabbitTown_treeCabinet_03",
+          "furni_rabbitTown_treeCabinet_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_treeCabinet_01",
+          "furni_rabbitTown_treeCabinet_02",
+          "furni_rabbitTown_treeCabinet_03",
+          "furni_rabbitTown_treeCabinet_04"
+        ],
+        "LOW": [
+          "furni_rabbitTown_treeCabinet_01",
+          "furni_rabbitTown_treeCabinet_02"
+        ],
+        "LOWEST": [
+          "furni_rabbitTown_treeCabinet_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_stoneCarpet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_stoneCarpet_01"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_stoneCarpet_01"
+        ],
+        "LOW": [
+          "furni_rabbitTown_stoneCarpet_01"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_servingTable_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_servingTable_01",
+          "furni_rabbitTown_servingTable_02",
+          "furni_rabbitTown_servingTable_03",
+          "furni_rabbitTown_servingTable_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_servingTable_01",
+          "furni_rabbitTown_servingTable_02",
+          "furni_rabbitTown_servingTable_03",
+          "furni_rabbitTown_servingTable_04"
+        ],
+        "LOW": [
+          "furni_rabbitTown_servingTable_01",
+          "furni_rabbitTown_servingTable_02",
+          "furni_rabbitTown_servingTable_03"
+        ],
+        "LOWEST": [
+          "furni_rabbitTown_servingTable_01",
+          "furni_rabbitTown_servingTable_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_planter_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_planter_01",
+          "furni_rabbitTown_planter_02",
+          "furni_rabbitTown_planter_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_planter_01",
+          "furni_rabbitTown_planter_02",
+          "furni_rabbitTown_planter_03"
+        ],
+        "LOW": [
+          "furni_rabbitTown_planter_01",
+          "furni_rabbitTown_planter_02"
+        ],
+        "LOWEST": [
+          "furni_rabbitTown_planter_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_pipeShelf_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_pipeShelf_01",
+          "furni_rabbitTown_pipeShelf_02",
+          "furni_rabbitTown_pipeShelf_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_pipeShelf_01",
+          "furni_rabbitTown_pipeShelf_02",
+          "furni_rabbitTown_pipeShelf_03"
+        ],
+        "LOW": [
+          "furni_rabbitTown_pipeShelf_01",
+          "furni_rabbitTown_pipeShelf_02"
+        ],
+        "LOWEST": [
+          "furni_rabbitTown_pipeShelf_01",
+          "furni_rabbitTown_pipeShelf_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_pipeLamp_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_pipeLamp_01",
+          "furni_rabbitTown_pipeLamp_02"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_pipeLamp_01",
+          "furni_rabbitTown_pipeLamp_02"
+        ],
+        "LOW": [
+          "furni_rabbitTown_pipeLamp_01",
+          "furni_rabbitTown_pipeLamp_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_oven_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_oven_01",
+          "furni_rabbitTown_oven_02",
+          "furni_rabbitTown_oven_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_oven_01",
+          "furni_rabbitTown_oven_02",
+          "furni_rabbitTown_oven_03"
+        ],
+        "LOW": [
+          "furni_rabbitTown_oven_01",
+          "furni_rabbitTown_oven_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_indoorPool_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_indoorPool_01",
+          "furni_rabbitTown_indoorPool_02",
+          "furni_rabbitTown_indoorPool_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_indoorPool_01",
+          "furni_rabbitTown_indoorPool_02",
+          "furni_rabbitTown_indoorPool_03"
+        ],
+        "LOW": [
+          "furni_rabbitTown_indoorPool_01",
+          "furni_rabbitTown_indoorPool_03"
+        ],
+        "LOWEST": [
+          "furni_rabbitTown_indoorPool_01",
+          "furni_rabbitTown_indoorPool_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_hangingLamp_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_hangingLamp_01",
+          "furni_rabbitTown_hangingLamp_02",
+          "furni_rabbitTown_hangingLamp_03"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_hangingLamp_01",
+          "furni_rabbitTown_hangingLamp_02",
+          "furni_rabbitTown_hangingLamp_03"
+        ],
+        "LOW": [
+          "furni_rabbitTown_hangingLamp_01",
+          "furni_rabbitTown_hangingLamp_02"
+        ],
+        "LOWEST": [
+          "furni_rabbitTown_hangingLamp_01",
+          "furni_rabbitTown_hangingLamp_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_hanging_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_hanging_01"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_hanging_01"
+        ],
+        "LOW": [
+          "furni_rabbitTown_hanging_01"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_handbag_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_handbag_01",
+          "furni_rabbitTown_handbag_02",
+          "furni_rabbitTown_handbag_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_handbag_01",
+          "furni_rabbitTown_handbag_02",
+          "furni_rabbitTown_handbag_03"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_diningTable_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_diningTable_01",
+          "furni_rabbitTown_diningTable_02",
+          "furni_rabbitTown_diningTable_03",
+          "furni_rabbitTown_diningTable_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_diningTable_01",
+          "furni_rabbitTown_diningTable_02",
+          "furni_rabbitTown_diningTable_03",
+          "furni_rabbitTown_diningTable_04"
+        ],
+        "LOW": [
+          "furni_rabbitTown_diningTable_01",
+          "furni_rabbitTown_diningTable_02"
+        ],
+        "LOWEST": [
+          "furni_rabbitTown_diningTable_01",
+          "furni_rabbitTown_diningTable_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_diningStool_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_diningStool_01",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_diningStool_01"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_desk_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_desk_01",
+          "furni_rabbitTown_desk_02",
+          "furni_rabbitTown_desk_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_desk_01",
+          "furni_rabbitTown_desk_02",
+          "furni_rabbitTown_desk_03"
+        ],
+        "LOW": [
+          "furni_rabbitTown_desk_01",
+          "furni_rabbitTown_desk_02"
+        ],
+        "LOWEST": [
+          "furni_rabbitTown_desk_01",
+          "furni_rabbitTown_desk_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_ceilingLamp_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_ceilingLamp_01",
+          "furni_rabbitTown_ceilingLamp_02"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_ceilingLamp_01",
+          "furni_rabbitTown_ceilingLamp_02"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_rabbitTown_absorbentCarpet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_rabbitTown_absorbentCarpet_01"
+        ],
+        "HIGH": [
+          "furni_rabbitTown_absorbentCarpet_01"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_wallDecor_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_darkForest_wallDecor_01",
+          "furni_darkForest_wallDecor_02"
+        ],
+        "HIGH": [
+          "furni_darkForest_wallDecor_01",
+          "furni_darkForest_wallDecor_02"
+        ],
+        "LOW": [
+          "furni_darkForest_wallDecor_01",
+          "furni_darkForest_wallDecor_02"
+        ],
+        "LOWEST": [
+          "furni_darkForest_wallDecor_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_vine_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_darkForest_vine_01",
+          "furni_darkForest_vine_02",
+          "furni_darkForest_vine_03",
+          "furni_darkForest_vine_04"
+        ],
+        "HIGH": [
+          "furni_darkForest_vine_01",
+          "furni_darkForest_vine_02",
+          "furni_darkForest_vine_03",
+          "furni_darkForest_vine_04"
+        ],
+        "LOW": [
+          "furni_darkForest_vine_01",
+          "furni_darkForest_vine_02",
+          "furni_darkForest_vine_03"
+        ],
+        "LOWEST": [
+          "furni_darkForest_vine_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_trunk_03": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_darkForest_trunk_03",
+          "furni_darkForest_trunk_04",
+          "furni_darkForest_trunk_05",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_darkForest_trunk_03",
+          "furni_darkForest_trunk_04",
+          "furni_darkForest_trunk_05"
+        ],
+        "LOW": [
+          "furni_darkForest_trunk_03",
+          "furni_darkForest_trunk_04"
+        ],
+        "LOWEST": [
+          "furni_darkForest_trunk_03",
+          "furni_darkForest_trunk_04"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_trunk_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_darkForest_trunk_02",
+          "furni_darkForest_trunk_03",
+          "furni_darkForest_trunk_04",
+          "furni_darkForest_trunk_05",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_darkForest_trunk_02",
+          "furni_darkForest_trunk_03",
+          "furni_darkForest_trunk_04",
+          "furni_darkForest_trunk_05"
+        ],
+        "LOW": [
+          "furni_darkForest_trunk_02"
+        ],
+        "LOWEST": [
+          "furni_darkForest_trunk_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_trunk_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_darkForest_trunk_01",
+          "furni_darkForest_trunk_02",
+          "furni_darkForest_trunk_03",
+          "furni_darkForest_trunk_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_darkForest_trunk_01",
+          "furni_darkForest_trunk_02",
+          "furni_darkForest_trunk_03",
+          "furni_darkForest_trunk_04"
+        ],
+        "LOW": [
+          "furni_darkForest_trunk_01",
+          "furni_darkForest_trunk_02",
+          "furni_darkForest_trunk_03",
+          "furni_darkForest_trunk_04"
+        ],
+        "LOWEST": [
+          "furni_darkForest_trunk_01",
+          "furni_darkForest_trunk_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_tropicalPlant_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_darkForest_tropicalPlant_01",
+          "furni_darkForest_tropicalPlant_02",
+          "furni_darkForest_tropicalPlant_03"
+        ],
+        "HIGH": [
+          "furni_darkForest_tropicalPlant_01",
+          "furni_darkForest_tropicalPlant_02",
+          "furni_darkForest_tropicalPlant_03"
+        ],
+        "LOW": [
+          "furni_darkForest_tropicalPlant_01",
+          "furni_darkForest_tropicalPlant_02",
+          "furni_darkForest_tropicalPlant_03"
+        ],
+        "LOWEST": [
+          "furni_darkForest_tropicalPlant_01",
+          "furni_darkForest_tropicalPlant_02",
+          "furni_darkForest_tropicalPlant_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_sticker_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_darkForest_sticker_01"
+        ],
+        "HIGH": [
+          "furni_darkForest_sticker_01"
+        ],
+        "LOW": [
+          "furni_darkForest_sticker_01"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_seat_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_darkForest_seat_02",
+          "furni_darkForest_seat_03",
+          "furni_darkForest_seat_04",
+          "shadow_01",
+          "shadow_02"
+        ],
+        "HIGH": [
+          "furni_darkForest_seat_02",
+          "furni_darkForest_seat_03",
+          "furni_darkForest_seat_04"
+        ],
+        "LOW": [
+          "furni_darkForest_seat_02"
+        ],
+        "LOWEST": [
+          "furni_darkForest_seat_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_seat_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_darkForest_seat_01",
+          "furni_darkForest_seat_02",
+          "furni_darkForest_seat_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_darkForest_seat_01",
+          "furni_darkForest_seat_02",
+          "furni_darkForest_seat_03"
+        ],
+        "LOW": [
+          "furni_darkForest_seat_01",
+          "furni_darkForest_seat_02",
+          "furni_darkForest_seat_03"
+        ],
+        "LOWEST": [
+          "furni_darkForest_seat_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_fossil_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_darkForest_fossil_01",
+          "furni_darkForest_fossil_02",
+          "furni_darkForest_fossil_03",
+          "furni_darkForest_fossil_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_darkForest_fossil_01",
+          "furni_darkForest_fossil_02",
+          "furni_darkForest_fossil_03",
+          "furni_darkForest_fossil_04"
+        ],
+        "LOW": [
+          "furni_darkForest_fossil_01",
+          "furni_darkForest_fossil_02",
+          "furni_darkForest_fossil_04"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_flower_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_darkForest_flower_01",
+          "furni_darkForest_flower_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_darkForest_flower_01",
+          "furni_darkForest_flower_02"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_ceilingLight_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_darkForest_ceilingLight_01",
+          "furni_darkForest_ceilingLight_02"
+        ],
+        "HIGH": [
+          "furni_darkForest_ceilingLight_01",
+          "furni_darkForest_ceilingLight_02"
+        ],
+        "LOW": [
+          "furni_darkForest_ceilingLight_01",
+          "furni_darkForest_ceilingLight_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_carpet_02": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_darkForest_carpet_02"
+        ],
+        "HIGH": [
+          "furni_darkForest_carpet_02"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_carpet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_darkForest_carpet_01"
+        ],
+        "HIGH": [
+          "furni_darkForest_carpet_01"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_branch_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_darkForest_branch_01",
+          "furni_darkForest_branch_02",
+          "furni_darkForest_branch_03"
+        ],
+        "HIGH": [
+          "furni_darkForest_branch_01",
+          "furni_darkForest_branch_02",
+          "furni_darkForest_branch_03"
+        ],
+        "LOW": [
+          "furni_darkForest_branch_01",
+          "furni_darkForest_branch_03"
+        ],
+        "LOWEST": [
+          "furni_darkForest_branch_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_terracommericials_vanillaSoda_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_terracommericials_vanillaSoda_01"
+        ],
+        "HIGH": [
+          "furni_terracommericials_vanillaSoda_01"
+        ],
+        "LOW": [
+          "furni_terracommericials_vanillaSoda_01"
+        ],
+        "LOWEST": [
+          "furni_terracommericials_vanillaSoda_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_terracommericials_fruitMedley_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_terracommericials_fruitMedley_01"
+        ],
+        "HIGH": [
+          "furni_terracommericials_fruitMedley_01"
+        ],
+        "LOW": [
+          "furni_terracommericials_fruitMedley_01"
+        ],
+        "LOWEST": [
+          "furni_terracommericials_fruitMedley_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_act76d0_messageTree_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_act76d0_messageTree_01",
+          "furni_act76d0_messageTree_02",
+          "furni_act76d0_messageTree_03",
+          "furni_act76d0_messageTree_light_01",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_act76d0_messageTree_01",
+          "furni_act76d0_messageTree_02",
+          "furni_act76d0_messageTree_03",
+          "furni_act76d0_messageTree_light_01"
+        ],
+        "LOW": [
+          "furni_act76d0_messageTree_01",
+          "furni_act76d0_messageTree_02",
+          "furni_act76d0_messageTree_03"
+        ],
+        "LOWEST": [
+          "furni_act76d0_messageTree_01",
+          "furni_act76d0_messageTree_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_darkForest_wallpaper_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_darkForest_floor_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_messengerCottage_wallpaper_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_messengerCottage_floor_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_rabbitTown_wallpaper_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_rabbitTown_floor_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_MA_mooncake_B_05": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_MA_mooncake_B_05",
+          "furni_MA_mooncake_B_06",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_MA_mooncake_B_05",
+          "furni_MA_mooncake_B_06"
+        ],
+        "LOW": [
+          "furni_MA_mooncake_B_05",
+          "furni_MA_mooncake_B_06"
+        ],
+        "LOWEST": [
+          "furni_MA_mooncake_B_05",
+          "furni_MA_mooncake_B_06"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_MA_mooncake_B_06": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_MA_mooncake_B_06",
+          "furni_MA_mooncake_B_07",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_MA_mooncake_B_06",
+          "furni_MA_mooncake_B_07"
+        ],
+        "LOW": [
+          "furni_MA_mooncake_B_06",
+          "furni_MA_mooncake_B_07"
+        ],
+        "LOWEST": [
+          "furni_MA_mooncake_B_06",
+          "furni_MA_mooncake_B_07"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_MA_mooncake_J_03": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_MA_mooncake_J_03",
+          "furni_MA_mooncake_J_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_MA_mooncake_J_03",
+          "furni_MA_mooncake_J_04"
+        ],
+        "LOW": [
+          "furni_MA_mooncake_J_03",
+          "furni_MA_mooncake_J_04"
+        ],
+        "LOWEST": [
+          "furni_MA_mooncake_J_03",
+          "furni_MA_mooncake_J_04"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_MA_mooncake_J_04": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_MA_mooncake_J_04",
+          "furni_MA_mooncake_J_05",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_MA_mooncake_J_04",
+          "furni_MA_mooncake_J_05"
+        ],
+        "LOW": [
+          "furni_MA_mooncake_J_04",
+          "furni_MA_mooncake_J_05"
+        ],
+        "LOWEST": [
+          "furni_MA_mooncake_J_04",
+          "furni_MA_mooncake_J_05"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_arch_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_arch_01",
+          "furni_dessertShop_arch_02",
+          "furni_dessertShop_arch_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_dessertShop_arch_01",
+          "furni_dessertShop_arch_02",
+          "furni_dessertShop_arch_03"
+        ],
+        "LOW": [
+          "furni_dessertShop_arch_01",
+          "furni_dessertShop_arch_02",
+          "furni_dessertShop_arch_03"
+        ],
+        "LOWEST": [
+          "furni_dessertShop_arch_01",
+          "furni_dessertShop_arch_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_lamp_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_lamp_01",
+          "furni_dessertShop_lamp_02",
+          "furni_dessertShop_lamp_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_dessertShop_lamp_01",
+          "furni_dessertShop_lamp_02",
+          "furni_dessertShop_lamp_03"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_leftChair_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_leftChair_01",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_dessertShop_leftChair_01"
+        ],
+        "LOW": [
+          "furni_dessertShop_leftChair_01"
+        ],
+        "LOWEST": [
+          "furni_dessertShop_leftChair_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_dinningTable_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_dinningTable_01",
+          "furni_dessertShop_dinningTable_02",
+          "furni_dessertShop_dinningTable_03",
+          "furni_dessertShop_dinningTable_04",
+          "furni_dessertShop_dinningTable_05",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_dessertShop_dinningTable_01",
+          "furni_dessertShop_dinningTable_02",
+          "furni_dessertShop_dinningTable_03",
+          "furni_dessertShop_dinningTable_04",
+          "furni_dessertShop_dinningTable_05"
+        ],
+        "LOW": [
+          "furni_dessertShop_dinningTable_01",
+          "furni_dessertShop_dinningTable_02"
+        ],
+        "LOWEST": [
+          "furni_dessertShop_dinningTable_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_rightChair_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_rightChair_01",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_dessertShop_rightChair_01"
+        ],
+        "LOW": [
+          "furni_dessertShop_rightChair_01"
+        ],
+        "LOWEST": [
+          "furni_dessertShop_rightChair_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_pillar_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_pillar_01",
+          "furni_dessertShop_pillar_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_dessertShop_pillar_01",
+          "furni_dessertShop_pillar_02"
+        ],
+        "LOW": [
+          "furni_dessertShop_pillar_01"
+        ],
+        "LOWEST": [
+          "furni_dessertShop_pillar_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_ceilingLamp_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_ceilingLamp_01",
+          "furni_dessertShop_ceilingLamp_02"
+        ],
+        "HIGH": [
+          "furni_dessertShop_ceilingLamp_01",
+          "furni_dessertShop_ceilingLamp_02"
+        ],
+        "LOW": [
+          "furni_dessertShop_ceilingLamp_01"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_cakeCabinet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_cakeCabinet_01",
+          "furni_dessertShop_cakeCabinet_02",
+          "furni_dessertShop_cakeCabinet_03",
+          "furni_dessertShop_cakeCabinet_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_dessertShop_cakeCabinet_01",
+          "furni_dessertShop_cakeCabinet_02",
+          "furni_dessertShop_cakeCabinet_03",
+          "furni_dessertShop_cakeCabinet_04"
+        ],
+        "LOW": [
+          "furni_dessertShop_cakeCabinet_01",
+          "furni_dessertShop_cakeCabinet_02"
+        ],
+        "LOWEST": [
+          "furni_dessertShop_cakeCabinet_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_wallShelf_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_wallShelf_01",
+          "furni_dessertShop_wallShelf_02"
+        ],
+        "HIGH": [
+          "furni_dessertShop_wallShelf_01",
+          "furni_dessertShop_wallShelf_02"
+        ],
+        "LOW": [
+          "furni_dessertShop_wallShelf_01"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_dinnerPlateTable_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_dinnerPlateTable_01",
+          "furni_dessertShop_dinnerPlateTable_02",
+          "furni_dessertShop_dinnerPlateTable_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_dessertShop_dinnerPlateTable_01",
+          "furni_dessertShop_dinnerPlateTable_02",
+          "furni_dessertShop_dinnerPlateTable_03"
+        ],
+        "LOW": [
+          "furni_dessertShop_dinnerPlateTable_01",
+          "furni_dessertShop_dinnerPlateTable_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_dessertCounter_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_dessertCounter_01",
+          "furni_dessertShop_dessertCounter_02",
+          "furni_dessertShop_dessertCounter_03",
+          "furni_dessertShop_dessertCounter_04",
+          "furni_dessertShop_dessertCounter_05",
+          "furni_dessertShop_dessertCounter_light_01",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_dessertShop_dessertCounter_01",
+          "furni_dessertShop_dessertCounter_02",
+          "furni_dessertShop_dessertCounter_03",
+          "furni_dessertShop_dessertCounter_04",
+          "furni_dessertShop_dessertCounter_05",
+          "furni_dessertShop_dessertCounter_light_01"
+        ],
+        "LOW": [
+          "furni_dessertShop_dessertCounter_01",
+          "furni_dessertShop_dessertCounter_03",
+          "furni_dessertShop_dessertCounter_04"
+        ],
+        "LOWEST": [
+          "furni_dessertShop_dessertCounter_01",
+          "furni_dessertShop_dessertCounter_04"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_cashier_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_cashier_01",
+          "furni_dessertShop_cashier_02",
+          "furni_dessertShop_cashier_03",
+          "furni_dessertShop_cashier_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_dessertShop_cashier_01",
+          "furni_dessertShop_cashier_02",
+          "furni_dessertShop_cashier_03",
+          "furni_dessertShop_cashier_04"
+        ],
+        "LOW": [
+          "furni_dessertShop_cashier_01",
+          "furni_dessertShop_cashier_02"
+        ],
+        "LOWEST": [
+          "furni_dessertShop_cashier_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_emptyTable_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_emptyTable_01",
+          "furni_dessertShop_emptyTable_02",
+          "furni_dessertShop_emptyTable_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_dessertShop_emptyTable_01",
+          "furni_dessertShop_emptyTable_02",
+          "furni_dessertShop_emptyTable_03"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_valance_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_valance_01",
+          "furni_dessertShop_valance_02"
+        ],
+        "HIGH": [
+          "furni_dessertShop_valance_01",
+          "furni_dessertShop_valance_02"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_smallCabinet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_smallCabinet_01",
+          "furni_dessertShop_smallCabinet_02",
+          "furni_dessertShop_smallCabinet_03",
+          "furni_dessertShop_smallCabinet_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_dessertShop_smallCabinet_01",
+          "furni_dessertShop_smallCabinet_02",
+          "furni_dessertShop_smallCabinet_03",
+          "furni_dessertShop_smallCabinet_04"
+        ],
+        "LOW": [
+          "furni_dessertShop_smallCabinet_01"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_combinationCabinet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_combinationCabinet_01",
+          "furni_dessertShop_combinationCabinet_02",
+          "furni_dessertShop_combinationCabinet_03",
+          "furni_dessertShop_combinationCabinet_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_dessertShop_combinationCabinet_01",
+          "furni_dessertShop_combinationCabinet_02",
+          "furni_dessertShop_combinationCabinet_03",
+          "furni_dessertShop_combinationCabinet_04"
+        ],
+        "LOW": [
+          "furni_dessertShop_combinationCabinet_01",
+          "furni_dessertShop_combinationCabinet_02"
+        ],
+        "LOWEST": [
+          "furni_dessertShop_combinationCabinet_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_storageTable_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_storageTable_01",
+          "furni_dessertShop_storageTable_02",
+          "furni_dessertShop_storageTable_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furni_dessertShop_storageTable_01",
+          "furni_dessertShop_storageTable_02",
+          "furni_dessertShop_storageTable_03"
+        ],
+        "LOW": [
+          "furni_dessertShop_storageTable_01",
+          "furni_dessertShop_storageTable_02"
+        ],
+        "LOWEST": [
+          "furni_dessertShop_storageTable_01",
+          "furni_dessertShop_storageTable_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_carpet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_dessertShop_carpet_01"
+        ],
+        "HIGH": [
+          "furni_dessertShop_carpet_01"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furni_dessertShop_wallpaper_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_dessertShop_floor_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furni_act1dp_frame_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_act1dp_frame_01",
+          "furni_act1dp_frame_02",
+          "furni_act1dp_frame_03"
+        ],
+        "HIGH": [
+          "furni_act1dp_frame_01",
+          "furni_act1dp_frame_02",
+          "furni_act1dp_frame_03"
+        ],
+        "LOW": [
+          "furni_act1dp_frame_01",
+          "furni_act1dp_frame_02"
+        ],
+        "LOWEST": [
+          "furni_act1dp_frame_01",
+          "furni_act1dp_frame_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_act77d0_shelf_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_act77d0_shelf_01",
+          "furni_act77d0_shelf_02",
+          "furni_act77d0_shelf_03",
+          "furni_act77d0_shelf_04"
+        ],
+        "HIGH": [
+          "furni_act77d0_shelf_01",
+          "furni_act77d0_shelf_02",
+          "furni_act77d0_shelf_03",
+          "furni_act77d0_shelf_04"
+        ],
+        "LOW": [
+          "furni_act77d0_shelf_01",
+          "furni_act77d0_shelf_02"
+        ],
+        "LOWEST": [
+          "furni_act77d0_shelf_01",
+          "furni_act77d0_shelf_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_oct1st_barrier_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_oct1st_barrier_01",
+          "furni_oct1st_barrier_02",
+          "furni_oct1st_barrier_03",
+          "shadow_01",
+          "shadow_02"
+        ],
+        "HIGH": [
+          "furni_oct1st_barrier_01",
+          "furni_oct1st_barrier_02",
+          "furni_oct1st_barrier_03"
+        ],
+        "LOW": [
+          "furni_oct1st_barrier_01",
+          "furni_oct1st_barrier_02",
+          "furni_oct1st_barrier_03"
+        ],
+        "LOWEST": [
+          "furni_oct1st_barrier_01",
+          "furni_oct1st_barrier_02",
+          "furni_oct1st_barrier_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furni_vector_S3_touch_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furni_vector_S3_touch_01"
+        ],
+        "HIGH": [
+          "furni_vector_S3_touch_01"
+        ],
+        "LOW": [
+          "furni_vector_S3_touch_01"
+        ],
+        "LOWEST": [
+          "furni_vector_S3_touch_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_leftDoor_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_leftDoor_01",
+          "furniM_velvet_leftDoor_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furniM_velvet_leftDoor_01",
+          "furniM_velvet_leftDoor_02"
+        ],
+        "LOW": [
+          "furniM_velvet_leftDoor_01",
+          "furniM_velvet_leftDoor_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_leftArchedDoor_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_leftArchedDoor_01",
+          "furniM_velvet_leftArchedDoor_02",
+          "furniM_velvet_leftArchedDoor_03",
+          "furniM_velvet_leftArchedDoor_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furniM_velvet_leftArchedDoor_01",
+          "furniM_velvet_leftArchedDoor_02",
+          "furniM_velvet_leftArchedDoor_03",
+          "furniM_velvet_leftArchedDoor_04"
+        ],
+        "LOW": [
+          "furniM_velvet_leftArchedDoor_01",
+          "furniM_velvet_leftArchedDoor_02",
+          "furniM_velvet_leftArchedDoor_03"
+        ],
+        "LOWEST": [
+          "furniM_velvet_leftArchedDoor_01",
+          "furniM_velvet_leftArchedDoor_02",
+          "furniM_velvet_leftArchedDoor_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_dessertTable_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_dessertTable_01",
+          "furniM_velvet_dessertTable_02",
+          "furniM_velvet_dessertTable_light_01",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furniM_velvet_dessertTable_01",
+          "furniM_velvet_dessertTable_02",
+          "furniM_velvet_dessertTable_light_01"
+        ],
+        "LOW": [
+          "furniM_velvet_dessertTable_01",
+          "furniM_velvet_dessertTable_02"
+        ],
+        "LOWEST": [
+          "furniM_velvet_dessertTable_01",
+          "furniM_velvet_dessertTable_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_checkeredCarpet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_checkeredCarpet_01"
+        ],
+        "HIGH": [
+          "furniM_velvet_checkeredCarpet_01"
+        ],
+        "LOW": [
+          "furniM_velvet_checkeredCarpet_01"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_musicPlayer_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_musicPlayer_01",
+          "furniM_velvet_musicPlayer_02",
+          "furniM_velvet_musicPlayer_03",
+          "furniM_velvet_musicPlayer_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furniM_velvet_musicPlayer_01",
+          "furniM_velvet_musicPlayer_02",
+          "furniM_velvet_musicPlayer_03",
+          "furniM_velvet_musicPlayer_04"
+        ],
+        "LOW": [
+          "furniM_velvet_musicPlayer_01",
+          "furniM_velvet_musicPlayer_02",
+          "furniM_velvet_musicPlayer_04"
+        ],
+        "LOWEST": [
+          "furniM_velvet_musicPlayer_01",
+          "furniM_velvet_musicPlayer_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_sculpture_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_sculpture_01",
+          "furniM_velvet_sculpture_02",
+          "furniM_velvet_sculpture_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furniM_velvet_sculpture_01",
+          "furniM_velvet_sculpture_02",
+          "furniM_velvet_sculpture_03"
+        ],
+        "LOW": [
+          "furniM_velvet_sculpture_01",
+          "furniM_velvet_sculpture_02",
+          "furniM_velvet_sculpture_03"
+        ],
+        "LOWEST": [
+          "furniM_velvet_sculpture_01",
+          "furniM_velvet_sculpture_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_ceilingLamp_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_ceilingLamp_01",
+          "furniM_velvet_ceilingLamp_02",
+          "furniM_velvet_ceilingLamp_03"
+        ],
+        "HIGH": [
+          "furniM_velvet_ceilingLamp_01",
+          "furniM_velvet_ceilingLamp_02",
+          "furniM_velvet_ceilingLamp_03"
+        ],
+        "LOW": [
+          "furniM_velvet_ceilingLamp_01",
+          "furniM_velvet_ceilingLamp_02",
+          "furniM_velvet_ceilingLamp_03"
+        ],
+        "LOWEST": [
+          "furniM_velvet_ceilingLamp_01",
+          "furniM_velvet_ceilingLamp_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_sofa_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_sofa_01",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furniM_velvet_sofa_01"
+        ],
+        "LOW": [
+          "furniM_velvet_sofa_01"
+        ],
+        "LOWEST": [
+          "furniM_velvet_sofa_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_leftChair_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_leftChair_01",
+          "furniM_velvet_leftChair_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furniM_velvet_leftChair_01",
+          "furniM_velvet_leftChair_02"
+        ],
+        "LOW": [
+          "furniM_velvet_leftChair_01",
+          "furniM_velvet_leftChair_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_roundTable_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_roundTable_01",
+          "furniM_velvet_roundTable_02",
+          "furniM_velvet_roundTable_03",
+          "furniM_velvet_roundTable_04",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furniM_velvet_roundTable_01",
+          "furniM_velvet_roundTable_02",
+          "furniM_velvet_roundTable_03",
+          "furniM_velvet_roundTable_04"
+        ],
+        "LOW": [
+          "furniM_velvet_roundTable_01",
+          "furniM_velvet_roundTable_02",
+          "furniM_velvet_roundTable_03"
+        ],
+        "LOWEST": [
+          "furniM_velvet_roundTable_01"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_rightChair_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_rightChair_01",
+          "furniM_velvet_rightChair_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furniM_velvet_rightChair_01",
+          "furniM_velvet_rightChair_02"
+        ],
+        "LOW": [
+          "furniM_velvet_rightChair_01",
+          "furniM_velvet_rightChair_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_messageBoard_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_messageBoard_01",
+          "furniM_velvet_messageBoard_02",
+          "furniM_velvet_messageBoard_03",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furniM_velvet_messageBoard_01",
+          "furniM_velvet_messageBoard_02",
+          "furniM_velvet_messageBoard_03"
+        ],
+        "LOW": [
+          "furniM_velvet_messageBoard_01",
+          "furniM_velvet_messageBoard_02",
+          "furniM_velvet_messageBoard_03"
+        ],
+        "LOWEST": [
+          "furniM_velvet_messageBoard_01",
+          "furniM_velvet_messageBoard_02",
+          "furniM_velvet_messageBoard_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_writingDesk_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_writingDesk_01",
+          "furniM_velvet_writingDesk_02",
+          "furniM_velvet_writingDesk_03",
+          "furniM_velvet_writingDesk_04",
+          "furniM_velvet_writingDesk_05",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furniM_velvet_writingDesk_01",
+          "furniM_velvet_writingDesk_02",
+          "furniM_velvet_writingDesk_03",
+          "furniM_velvet_writingDesk_04",
+          "furniM_velvet_writingDesk_05"
+        ],
+        "LOW": [
+          "furniM_velvet_writingDesk_01",
+          "furniM_velvet_writingDesk_02",
+          "furniM_velvet_writingDesk_03"
+        ],
+        "LOWEST": [
+          "furniM_velvet_writingDesk_01",
+          "furniM_velvet_writingDesk_02",
+          "furniM_velvet_writingDesk_03"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_hangingFrame_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_hangingFrame_01",
+          "furniM_velvet_hangingFrame_02"
+        ],
+        "HIGH": [
+          "furniM_velvet_hangingFrame_01",
+          "furniM_velvet_hangingFrame_02"
+        ],
+        "LOW": [
+          "furniM_velvet_hangingFrame_01",
+          "furniM_velvet_hangingFrame_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_rightArchedDoor_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_rightArchedDoor_01",
+          "furniM_velvet_rightArchedDoor_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furniM_velvet_rightArchedDoor_01",
+          "furniM_velvet_rightArchedDoor_02"
+        ],
+        "LOW": [
+          "furniM_velvet_rightArchedDoor_01",
+          "furniM_velvet_rightArchedDoor_02"
+        ],
+        "LOWEST": [
+          "furniM_velvet_rightArchedDoor_01",
+          "furniM_velvet_rightArchedDoor_02"
+        ]
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_rightDoor_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_rightDoor_01",
+          "furniM_velvet_rightDoor_02",
+          "shadow_01"
+        ],
+        "HIGH": [
+          "furniM_velvet_rightDoor_01",
+          "furniM_velvet_rightDoor_02"
+        ],
+        "LOW": [
+          "furniM_velvet_rightDoor_01",
+          "furniM_velvet_rightDoor_02"
+        ],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_fragmentCarpet_01": {
+      "showedObjNames": {
+        "HIGHEST": [
+          "furniM_velvet_fragmentCarpet_01"
+        ],
+        "HIGH": [
+          "furniM_velvet_fragmentCarpet_01"
+        ],
+        "LOW": [],
+        "LOWEST": []
+      },
+      "isOverWrite": true
+    },
+    "furniM_velvet_wallpaper_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
+    },
+    "furniM_velvet_floor_01": {
+      "showedObjNames": {},
+      "isOverWrite": false
     }
   }
 }

@@ -7,6 +7,7 @@
     "costIncreaseTime": 1.0,
     "moveMultiplier": 0.5,
     "steeringEnabled": true,
+    "reachableCheckIgnoreStartTile": false,
     "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
@@ -2903,7 +2904,8 @@
             "value": 0.0,
             "valueStr": "summon_cjblon"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -2933,7 +2935,8 @@
             "value": 0.0,
             "valueStr": "summon_cjglon"
           }
-        ]
+        ],
+        "overrideTalents": null
       }
     ],
     "characterCards": [],
